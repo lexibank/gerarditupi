@@ -2,4 +2,5 @@
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Gerardi, f. | | Data Collector | Author
+Ferraz Gerardi, F. | | Data Collector | Author
+Reichert, S. | | Data Collector | Author
