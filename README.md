@@ -38,7 +38,7 @@ Available online at http://www.sil.org/resources/publications/entry/9121
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Ferraz Gerardi, F. | | Data Collector | Author
+Ferraz Gerardi, F. |LanguageStructure | Data Collector | Author
 Reichert, Stanislav. | | Data Collector | Author
 
 
