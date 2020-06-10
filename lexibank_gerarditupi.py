@@ -44,8 +44,21 @@ class Dataset(BaseDataset):
                     )
             concepts[concept['ENGLISH']] = idx
         languages = args.writer.add_languages(lookup_factory='Name')
+
+        replacements = {
+                'wu': ['w', 'u'],
+                'wã': ['w', 'ã'],
+                'ja': ['j', 'a'],
+                'oj': ['oi'],
+                'kãʔã': ['k', 'ã', 'ʔ', 'ã'],
+                'ej': ['ei̯'],
+                'ij': ['ii̯'],
+                'ɨp': ['ɨ', 'p'],
+                'ɪw': ['ɪu̯'],
+                'e͂': ['ẽ']
+                }
         
-        missing = set()
+        missing, missing2 = set(), set()
         for row, cog in zip(
                 self.raw_dir.read_csv(
                     'Aligned_matrix_lexical.csv', delimiter=',', dicts=True),
@@ -53,24 +66,32 @@ class Dataset(BaseDataset):
                     'Cognate matrix.csv', delimiter=',', dicts=True)):
             language = row[''].strip()
             for concept, concept_id in concepts.items():
-                word = row[concept]
-                if word.strip() and language.strip():
-                    lexeme = args.writer.add_form_with_segments(
-                            Language_ID=languages[language],
-                            Parameter_ID=concept_id,
-                            Value=row[concept],
-                            Form=row[concept],
-                            Segments=row[concept].split(),
-                            Source='gerarditupi'
-                            )
-                    if concept in cog:
-                        args.writer.add_cognate(
-                            lexeme=lexeme,
-                            Cognateset_ID='{0}-{1}'.format(slug(concept), cog[concept]),
-                            Source='gerarditupi')
-                    else:
-                        missing.add(concept)
+                if concept in row:
+                    word = row[concept]
+                    if word.strip() and language.strip():
+                        segments = []
+                        for segment in word.split():
+                            segments += replacements.get(segment, [segment])
+                        lexeme = args.writer.add_form_with_segments(
+                                Language_ID=languages[language],
+                                Parameter_ID=concept_id,
+                                Value=row[concept],
+                                Form=row[concept],
+                                Segments=segments,
+                                Source='gerarditupi'
+                                )
+                        if concept in cog:
+                            args.writer.add_cognate(
+                                lexeme=lexeme,
+                                Cognateset_ID='{0}-{1}'.format(slug(concept), cog[concept]),
+                                Source='gerarditupi')
+                        else:
+                            missing.add(concept)
+                else:
+                    missing2.add(concept)
         for concept in missing:
             args.log.warn('Concept {0} could not be found'.format(concept))
+        for concept in missing2:
+            args.log.warn('Concept {0} missing'.format(concept))
 
 
