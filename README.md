@@ -2,11 +2,9 @@
 
 Cite the source dataset as
 
-> +++ normal citation here +++
+> Ferraz Gerardi, Fabrício and Reichert, Stanislav (2020) The Tupí-Guaraní Language Family: A Phylogenetic Classification. To appear in Diachronica.
 
 This dataset is licensed under a CCBY-NC license
-
-Available online at http://www.sil.org/resources/publications/entry/9121
 
 ## Notes
 
@@ -23,16 +21,16 @@ Available online at http://www.sil.org/resources/publications/entry/9121
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 38
-- **Concepts:** 249
-- **Lexemes:** 7,758
+- **Concepts:** 252
+- **Lexemes:** 7,841
 - **Sources:** 1
 - **Synonymy:** 1.00
-- **Cognacy:** 7,540 cognates in 1,039 cognate sets (488 singletons)
+- **Cognacy:** 7,623 cognates in 1,053 cognate sets (494 singletons)
 - **Cognate Diversity:** 0.11
 - **Invalid lexemes:** 0
-- **Tokens:** 34,224
+- **Tokens:** 34,623
 - **Segments:** 111 (0 BIPA errors, 0 CTLS sound class errors, 111 CLTS modified)
-- **Inventory size (avg):** 36.05
+- **Inventory size (avg):** 36.08
 
 # Contributors
 
@@ -40,5 +38,6 @@ Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Ferraz Gerardi, F. | | Data Collector | Author
 Reichert, S. | | Data Collector | Author
+Johann-Mattis List | @lingulist | CLDF conversion | Other
 
 

@@ -1,9 +1,8 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "+++ normal citation here +++",
+    "dc:bibliographicCitation": "Ferraz Gerardi, Fabr\u00edcio and Reichert, Stanislav (2020) The Tup\u00ed-Guaran\u00ed Language Family: A Phylogenetic Classification. To appear in Diachronica.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:identifier": "http://www.sil.org/resources/publications/entry/9121",
     "dc:isVersionOf": null,
     "dc:license": "CCBY-NC",
     "dc:related": null,
@@ -15,31 +14,31 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/gerarditupi",
-            "dc:created": "cb5a0a8"
+            "dc:created": "14695ab"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.2.1-7-g35d84ac"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4"
+            "dc:created": "v4.2.1-7-g35d84acf81"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "dc:created": "v2.3.0-107-g79157a1"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v1.4"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.5.2"
+            "dc:description": "3.8.2"
         },
         {
             "dc:title": "python-packages",
@@ -54,7 +53,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 7758,
+            "dc:extent": 7841,
             "tableSchema": {
                 "columns": [
                     {
@@ -115,14 +114,6 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Graphemes"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Profile"
                     }
                 ],
                 "foreignKeys": [
@@ -231,7 +222,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 249,
+            "dc:extent": 252,
             "tableSchema": {
                 "columns": [
                     {
@@ -267,7 +258,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 7540,
+            "dc:extent": 7623,
             "tableSchema": {
                 "columns": [
                     {
