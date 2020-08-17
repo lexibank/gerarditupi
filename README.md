@@ -36,7 +36,7 @@ This dataset is licensed under a CCBY-NC license
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Ferraz Gerardi, F. | | Data Collector | Author
+Ferraz Gerardi, F. l| @LanguageStructure| Data Collector | Author
 Reichert, S. | | Data Collector | Author
 Johann-Mattis List | @lingulist | CLDF conversion | Other
 
