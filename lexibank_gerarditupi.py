@@ -36,7 +36,12 @@ class Dataset(BaseDataset):
         args.writer.add_sources()
 
         # Collect languages and add to CLDF, also building look-up
-        languages = args.writer.add_languages(lookup_factory="Name")
+        languages = {}
+        for language in self.languages:
+            args.writer.add_language(
+            ID=language['ID'],Name=language['Name'], Glottocode=language['Glottocode']
+            )
+            languages[language['Name']] = {'ID':language['ID'],'Source':language['Source'].split(",")}
 
         # Collect concepts and add to CLDF, also building look-up
         concepts = {}
@@ -81,12 +86,12 @@ class Dataset(BaseDataset):
                         for segment in word.split():
                             segments += replacements.get(segment, [segment])
                         lexeme = args.writer.add_form_with_segments(
-                            Language_ID=languages[language],
+                            Language_ID=languages[language]['ID'],
                             Parameter_ID=concept_id,
                             Value=row[concept],
                             Form=row[concept],
                             Segments=segments,
-                            Source="gerarditupi",
+                            Source=languages[language]['Source'],
                         )
                         if concept in cog:
                             args.writer.add_cognate(

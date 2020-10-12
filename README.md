@@ -14,6 +14,7 @@ This dataset is licensed under a CCBY-NC license
 ## Statistics
 
 
+[![Build Status](https://travis-ci.org/lexibank/gerarditupi.svg?branch=master)](https://travis-ci.org/lexibank/gerarditupi)
 ![Glottolog: 92%](https://img.shields.io/badge/Glottolog-92%25-green.svg "Glottolog: 92%")
 ![Concepticon: 98%](https://img.shields.io/badge/Concepticon-98%25-green.svg "Concepticon: 98%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -23,7 +24,7 @@ This dataset is licensed under a CCBY-NC license
 - **Varieties:** 38
 - **Concepts:** 234
 - **Lexemes:** 7,317
-- **Sources:** 1
+- **Sources:** 74
 - **Synonymy:** 1.00
 - **Cognacy:** 7,317 cognates in 1,008 cognate sets (476 singletons)
 - **Cognate Diversity:** 0.11
@@ -39,5 +40,6 @@ Name | GitHub user | Description | Role
 Ferraz Gerardi, F. | | Data Collector | Author
 Reichert, S. | | Data Collector | Author
 Johann-Mattis List | @lingulist | CLDF conversion | Other
+Tiago Tresoldi | @tresoldi | Minor curation | Other
 
 
