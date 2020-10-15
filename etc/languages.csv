@@ -1,41 +1,39 @@
-ID,Name,Glottocode,Latitude,Longitude,Source
-Mawe,MAWE,sate1243,-3.63897,-56.8749,
-Aweti,AWETI,awet1244,-12.381944,-53.391944,
-Asurini,Asurini,toca1235,-3.59359,-49.8991,
-Parakana,Parakanã,para1312,-4.64681,-50.0621,
-Surui,Suruí,suru1262,-5.93,-48.59,
-Tapirape,Tapirapé,tapi1254,-10.5373,-50.5438,
-Tembe,Tembé,temb1276,-2.6123,-48.2359,
-Apiaka,Apiaká,apia1248,-7.84711,-57.91,
-Guajajara,Guajajara,guaj1255,-45.7081,-4.69461,
-Amonda,Amonda,amun1246,-9.04023,-62.3064,
-Tenharim,Tenharim,,-8.32882,-61.8972,
-Parintintin,Parintintin,tenh1241,-7.92626,-61.936,
-Urueuwauwau,Urueuwauwau,urue1240,-10.9176,-63.8086,
-Kayabi,Kayabí,kaya1329,-11.2747,-55.5479,
-AsuriniXingu,Asurini Xingu,xing1248,-4.13463,-52.321,
-Arawete,Araweté,araw1273,-4.90246,-52.5001,
-Kamayura,Kamayura,kama1373,-12.2661,-53.4651,
-Guaja,Guajá,guaj1256,-3.93574,-46.3683,
-Emerillon,Emerillon,emer1243,-52.3699,3.23694,
-WayampiJ,Wayampí J,,,,
-Wayampi,Wayampí,waya1270,1.73817,-52.6887,
-UrubuKaapor,UrubuKaapor,urub1250,-2.46455,-46.2204,
-Anambe,Anambé,anam1249,-2.71119,-49.303,
-AvaCanoeiro,AvaCanoeiro,avac1239,-13.6081,-48.1336,
-Tupi,Tupí,tupi1273,-8.1055,-34.887,
-Nheengatu,Nheengatu,nhen1239,1.04503,-66.9646,
-Kokama,Kokama,coca1259,-4.5,-74,
-Omagua,Omagua,omag1248,-3.53,-69.17,
-Yuki,Yuki,yuqu1240,-16.7875,-64.9438,
-Guarayo,Guarayo,guar1292,-15.8247,-61.6934,
-Siriono,Sirionó,siri1273,-15.5298,-63.9688,
-Warazu,Warazu,paus1244,-12.8553,-63.1903,
-Chiriguano,Chiriguano,east2555,-20.42,-63.37,
-GuaraniMbya,GuaraniMbya,mbya1239,-26.0188,-52.711,
-GuaraniParaguay,Guarani Paraguay,para1311,-25.60551,-57.08816,
-GuaraniAntigo,Guarani Antigo,,-26.25,-54.29,
-Guayaki,Guayaki,ache1246,-25.5865,-56.4697,
-Xeta,Xeta,xeta1241,-24.9408,-52.2266,
-Kaiowa,Kaiowa,kaiw1246,-24.589,-54.6815,
-Tapiete,Tapiete,tapi1253,-21.4169,-62.684,
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,SubGroup,Source
+Mawe,MAWE,sate1243,,,,-3.63897,-56.8749,,,"11987,464078"
+Aweti,AWETI,awet1244,,,,-12.381944,-53.391944,,,"557177,borella2000aspectos"
+Asurini,Asurini,toca1235,,,,-3.59359,-49.8991,,,"cabral2003dicionario,cabral2000aspectos"
+Parakana,Parakanã,para1312,,,,-4.64681,-50.0621,,,"304261"
+Surui,Suruí,suru1262,,,,-5.93,-48.59,,,"lopes2014interface"
+Tapirape,Tapirapé,tapi1254,,,,-10.5373,-50.5438,,,"112834,pracca2007morfossintaxe,de1983lingua"
+Tembe,Tembé,temb1276,,,,-2.6123,-48.2359,,,"boudin1978dicionario"
+Apiaka,Apiaká,apia1248,,,,-7.84711,-57.91,,,"padua2007contribuiccao,156375"
+Guajajara,Guajajara,guaj1255,,,,-45.7081,-4.69461,,,"harrison2013dicionario"
+Amonda,Amonda,amun1246,,,,-9.04023,-62.3064,,,"marcoli2018estudo,betts2012kagwahiva"
+Tenharim,Tenharim,,,,,-8.32882,-61.8972,,,"betts2012kagwahiva"
+Parintintin,Parintintin,tenh1241,,,,-7.92626,-61.936,,,"betts2012kagwahiva"
+Urueuwauwau,Urueuwauwau,urue1240,,,,-10.9176,-63.8086,,,"betts2012kagwahiva,557756"
+Kayabi,Kayabí,kaya1329,,,,-11.2747,-55.5479,,,"7774"
+AsuriniXingu,Asurini Xingu,xing1248,,,,-4.13463,-52.321,,,"pereira2013estrategias,pereira2010nominalizaccao,144735"
+Arawete,Araweté,araw1273,,,,-4.90246,-52.5001,,,"37959,viveiros2012arawete"
+Kamayura,Kamayura,kama1373,,,,-12.2661,-53.4651,,,"29263,14073"
+Guaja,Guajá,guaj1256,,,,-3.93574,-46.3683,,,"576874,39277,80218,74771"
+Emerillon,Emerillon,emer1243,,,,-52.3699,3.23694,,,"61707,33113"
+WayampiJ,Wayampí J,,,,,,,,,"64867,142698,149660,39296,57694,302951"
+Wayampi,Wayampí,waya1270,,,,1.73817,-52.6887,,,"grenand1989dictionnaire"
+UrubuKaapor,UrubuKaapor,urub1250,,,,-2.46455,-46.2204,,,"kakumasu1988dicionario,santos2018lingua,lopes2009aspectos,caldas2009proposta"
+Anambe,Anambé,anam1249,,,,-2.71119,-49.303,,,"juliao2005aspects"
+AvaCanoeiro,AvaCanoeiro,avac1239,,,,-13.6081,-48.1336,,,"105302,silva2015elementos,do2015expressao,borges2006aspectos"
+Tupi,Tupí,tupi1273,,,,-8.1055,-34.887,,,"471687"
+Nheengatu,Nheengatu,nhen1239,,,,1.04503,-66.9646,,,"cruz2011fonologia"
+Kokama,Kokama,coca1259,,,,-4.5,-74,,,"552707,550958"
+Omagua,Omagua,omag1248,,,,-3.53,-69.17,,,"575624"
+Yuki,Yuki,yuqu1240,,,,-16.7875,-64.9438,,,"villafane2004gramatica"
+Guarayo,Guarayo,guar1292,,,,-15.8247,-61.6934,,,"villafane2004gramatica,hoeller1932guarayo,dietrich2017linguas"
+Siriono,Sirionó,siri1273,,,,-15.5298,-63.9688,,,"gasparini2015diccionario,priest1985diccionario,dietrich2017linguas"
+Warazu,Warazu,paus1244,,,,-12.8553,-63.1903,,,"ramirez2017warazu"
+Chiriguano,Chiriguano,east2555,,,,-20.42,-63.37,,,"312530,dietrich1986idioma"
+GuaraniMbya,GuaraniMbya,mbya1239,,,,-26.0188,-52.711,,,"dooley2006lexico"
+GuaraniParaguay,Guarani Paraguay,para1311,,,,-25.60551,-57.08816,,,"gregores2018description"
+GuaraniAntigo,Guarani Antigo,,,,,-26.25,-54.29,,,"montoya1994arte,de1876catecismo,restivo1893escolios"
+Guayaki,Guayaki,ache1246,,,,-25.5865,-56.4697,,,"106574,rossler2015reestruturaccao,roessler2018syntactic,dietrich2015lexicologia"
+Xeta,Xeta,xeta1241,,,,-24.9408,-52.2266,,,"44029,54700,93778,74861"

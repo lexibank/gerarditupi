@@ -13,36 +13,21 @@
             "name": "Reichert, S."
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        }
+    ],
     "communities": [
-        {
-            "identifier": "lexibank"
-        },
-        {
-            "identifier": "lexibank"
-        },
-        {
-            "identifier": "lexibank"
-        },
-        {
-            "identifier": "lexibank"
-        },
-        {
-            "identifier": "lexibank"
-        },
-        {
-            "identifier": "lexibank"
-        },
-        {
-            "identifier": "lexibank"
-        },
-        {
-            "identifier": "lexibank"
-        },
         {
             "identifier": "lexibank"
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>+++ normal citation here +++</p>\n</blockquote>"
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Ferraz Gerardi, Fabr\u00edcio and Reichert, Stanislav (2020) The Tup\u00ed-Guaran\u00ed Language Family: A Phylogenetic Classification. To appear in Diachronica.</p>\n</blockquote>"
 }
