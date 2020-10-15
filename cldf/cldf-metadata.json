@@ -14,31 +14,31 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/gerarditupi",
-            "dc:created": "b6c85ee"
+            "dc:created": "cf13bb2"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.2.1-26-g276382e"
+            "dc:created": "v4.2.1-7-g35d84ac"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-rc.1-29-gf8bd18f"
+            "dc:created": "v2.4.0-rc.1-24-g89e27e8"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4-1-g7bb16a7"
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v1.4-3-g99e4218"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.7"
+            "dc:description": "3.5.2"
         },
         {
             "dc:title": "python-packages",
@@ -53,7 +53,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 7317,
+            "dc:extent": 7621,
             "tableSchema": {
                 "columns": [
                     {
@@ -230,7 +230,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 234,
+            "dc:extent": 244,
             "tableSchema": {
                 "columns": [
                     {
@@ -266,7 +266,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 7317,
+            "dc:extent": 7590,
             "tableSchema": {
                 "columns": [
                     {

@@ -53,7 +53,9 @@ class Dataset(BaseDataset):
         for concept in self.concepts:
             idx = "{0}_{1}".format(concept["NUMBER"], slug(concept["ENGLISH"]))
             args.writer.add_concept(
-                ID=idx, Name=concept["ENGLISH"], Concepticon_ID=concept["CONCEPTICON"]
+                ID=idx, Name=concept["ENGLISH"], 
+                Number=concept['NUMBER'],
+                Concepticon_ID=concept["CONCEPTICON"]
             )
             concepts[concept["ENGLISH"]] = idx
 
