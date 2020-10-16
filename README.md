@@ -4,6 +4,8 @@ Cite the source dataset as
 
 > Ferraz Gerardi, Fabrício and Reichert, Stanislav (2020) The Tupí-Guaraní Language Family: A Phylogenetic Classification. To appear in Diachronica.
 
+[![DOI](https://zenodo.org/badge/269670184.svg)](https://zenodo.org/badge/latestdoi/269670184)
+
 This dataset is licensed under a CCBY-NC license
 
 ## Notes
