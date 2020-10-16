@@ -1,8 +1,8 @@
 """
 Build lexibank dataset for `gerarditupi`.
 """
-
 from pathlib import Path
+import collections
 import attr
 
 from pylexibank import Concept, Language
@@ -49,7 +49,7 @@ class Dataset(BaseDataset):
             }
 
         # Collect concepts and add to CLDF, also building look-up
-        concepts = {}
+        concepts = collections.OrderedDict()
         for concept in self.concepts:
             idx = "{0}_{1}".format(concept["NUMBER"], slug(concept["ENGLISH"]))
             args.writer.add_concept(
