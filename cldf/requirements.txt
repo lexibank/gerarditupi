@@ -15,7 +15,7 @@ idna==2.6
 isodate==0.6.0
 jdcal==1.4
 lingpy==2.6.6
-lxml==4.2.3
+lxml==4.6.2
 Markdown==2.6.11
 nameparser==1.0.4
 networkx==2.1
