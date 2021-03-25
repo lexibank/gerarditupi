@@ -50,14 +50,15 @@ class Dataset(BaseDataset):
 
         # Collect concepts and add to CLDF, also building look-up
         concepts = collections.OrderedDict()
-        for concept in self.concepts:
-            idx = "{0}_{1}".format(concept["NUMBER"], slug(concept["ENGLISH"]))
+        for concept in self.conceptlists[0].concepts.values():
+            idx = "{0}_{1}".format(concept.number, slug(concept.english))
             args.writer.add_concept(
-                ID=idx, Name=concept["ENGLISH"], 
-                Number=concept['NUMBER'],
-                Concepticon_ID=concept["CONCEPTICON"]
+                ID=idx, Name=concept.english, 
+                Number=concept.number,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss
             )
-            concepts[concept["ENGLISH"]] = idx
+            concepts[concept.english] = idx
 
         # Define a list os string replacements -- as the raw data is already
         # segmented, and these few cases are actually inconsistencies, it is better

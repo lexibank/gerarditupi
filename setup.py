@@ -15,6 +15,6 @@ setup(
     include_package_data=True,
     zip_safe=False,
     entry_points={"lexibank.dataset": ["gerarditupi=lexibank_gerarditupi:Dataset"]},
-    install_requires=["pylexibank>=2.1"],
+    install_requires=["pylexibank>=3.0"],
     extras_require={"test": ["pytest-cldf"]},
 )

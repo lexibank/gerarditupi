@@ -6,6 +6,9 @@ Cite the source dataset as
 
 This dataset is licensed under a CC-BY-4.0 license
 
+
+Conceptlists in Concepticon:
+- [Gerardi-2021-244](https://concepticon.clld.org/contributions/Gerardi-2021-244)
 ## Notes
 
 This is the dataset accompanying the publication by Gerardi and Reichert, titled "The Tupí-Guaraní Language Family:A Phylogenetic Classification", which will appear in Diachronica. 
@@ -30,7 +33,7 @@ We could not resolve these cases and will leave them for now, but we will update
 
 [![Build Status](https://travis-ci.org/lexibank/gerarditupi.svg?branch=master)](https://travis-ci.org/lexibank/gerarditupi)
 ![Glottolog: 92%](https://img.shields.io/badge/Glottolog-92%25-green.svg "Glottolog: 92%")
-![Concepticon: 98%](https://img.shields.io/badge/Concepticon-98%25-green.svg "Concepticon: 98%")
+![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
@@ -52,7 +55,7 @@ We could not resolve these cases and will leave them for now, but we will update
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Ferraz Gerardi, F. | @LanguageStructure | Data Collector | Author
-Reichert, S. |@StasReichert | Data Collector | Author
+Reichert, S. | | Data Collector | Author
 Johann-Mattis List | @lingulist | CLDF conversion | Other
 Tiago Tresoldi | @tresoldi | Minor curation, concept mapping refinement | Other
 
