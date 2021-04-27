@@ -17,12 +17,12 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/gerarditupi",
-            "dc:created": "v1.0.1-1-g34e1365"
+            "dc:created": "v1.0.1-2-g8cad29f"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog/",
+            "rdf:about": "https://github.com/glottolog/glottolog",
             "dc:created": "v4.3"
         },
         {
