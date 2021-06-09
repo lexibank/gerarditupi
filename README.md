@@ -1,8 +1,14 @@
 # CLDF dataset derived from Gerardi and Reichert's "The Tupí-Guaraní Language Family: A Phylogenetic Classification" from 2020
 
-Cite the source dataset as
+## How to cite
 
-> Ferraz Gerardi, Fabrício and Reichert, Stanislav (2020) The Tupí-Guaraní Language Family: A Phylogenetic Classification. To appear in Diachronica.
+If you use these data please cite
+- the original source
+  > Ferraz Gerardi, Fabrício and Reichert, Stanislav (2020) The Tupí-Guaraní Language Family: A Phylogenetic Classification. To appear in Diachronica.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -60,3 +66,10 @@ Johann-Mattis List | @lingulist | CLDF conversion | Other
 Tiago Tresoldi | @tresoldi | Minor curation, concept mapping refinement | Other
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
