@@ -1,5 +1,7 @@
 # CLDF dataset derived from Gerardi and Reichert's "The Tupí-Guaraní Language Family: A Phylogenetic Classification" from 2020
 
+[![CLDF validation](https://github.com/lexibank/gerarditupi/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/gerarditupi/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -37,7 +39,7 @@ We could not resolve these cases and will leave them for now, but we will update
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/gerarditupi.svg?branch=master)](https://travis-ci.org/lexibank/gerarditupi)
+[![CLDF validation](https://github.com/lexibank/gerarditupi/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/gerarditupi/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 92%](https://img.shields.io/badge/Glottolog-92%25-green.svg "Glottolog: 92%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
