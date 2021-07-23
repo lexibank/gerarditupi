@@ -1,474 +1,453 @@
-Grapheme	IPA	Frequency	CLTS	Examples	Languages
-	NULL	1	?	koraʔa	kuruaya
-w	w	1	?	tʃawap	kuruaya
-'a	ʔ a	2	?	'ap, se'a	karitiana
-'e	ʔ e	3	?	'ep, sa'ep, sa'ewotyt	karitiana
-'o	ʔ o	5	?	'op, ge'op, kina'o	karitiana
-'y	ʔ y	2	?	koromopi'yp, ti'y	karitiana
-'õ	ʔ õ	2	?	ke'õn, nẽ'õm	karitiana
-'ĩ	ʔ ĩ	3	?	eje'ĩn, my'ĩnã, soko'ĩ	karitiana
-'ʔ	ʔ	4	?	ku'ʔa, paádja'ʔo, saʔi'ʔum	gaviaoikoloehj, suruiaikewara
-*	NULL	85	?	adʒɨ*, aka*, ana*	amondawa, arikem, arua, asurinidoxingu, chiriguano, cintalarga, emerillonteko, gaviaoikoloehj, guaja, guarayo, jiahoi, jora, kaiowa, kuruaya, makurap, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parakana, purubora, siriono, suruiaikewara, suruipaiter, tenharim, tupari, wayoro, xeta, xipaya, zoe
-**	NULL	7	?	bi**, biʔd**, irõm**	arikem, kuruaya, xipaya
-;	NULL	1	?	aindi;	wayoro
-a	a	11689	unrounded open front vowel	-ana-, -anam, -anã-	akuntsu, amondawa, anambe, apiaka, arawete, arikem, arua, aruashi, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, cocamacocamilla, emerillonteko, gaviaoikoloehj, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parakana, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, xipaya, yuki, zoe, zoro
-aa	aː	157	long unrounded open front vowel	aa, aapɨ, aat	arawete, arikem, arua, asurinidotocantins, asurinidoxingu, chiriguano, cintalarga, gaviaoikoloehj, guaraniparaguay, guarayo, guayakiache, juruna, kaiowa, karitiana, karoarara, kayabi, makurap, mbya, mekenssakurabiat, monde, parakana, purubora, sateremawe, siriono, suruipaiter, tapirapeapyawa, tupari, wayampi, wayoro, xeta, xipaya, yuki, zoro
-aaa	aː	1	unrounded open front vowel	katkaraaap	gaviaoikoloehj
-aai	a	2	unrounded open front vowel	kaai, ɨkʷaai	makurap, mekenssakurabiat
-ae	ae	54	from unrounded open front to unrounded close-mid front diphthong	ae, aekɨ̃a, aekʔa	amondawa, apiaka, arua, asurinidoxingu, avacanoeiro, chiriguano, cintalarga, cocamacocamilla, emerillonteko, guarayo, jiahoi, kaiowa, kamayura, kayabi, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, siriono, tapiete, tapirapeapyawa, tenharim, tupari, urueuwauwau, warazupauserna, xipaya
-aea	a ea	1	unrounded open front vowel	maeapar	avacanoeiro
-aeo	a eo	2	unrounded open front vowel	dʒaeo, jaeo	avacanoeiro, chiriguano
-aeã	a eã	1	unrounded open front vowel	ejaeã	siriono
-aẽ	a ẽ	1	unrounded open front vowel	ewaẽ	siriono
-ai	ai	195	from unrounded open front to unrounded close front diphthong	abaibitirõnkja, ai, ai-hape	akuntsu, amondawa, anambe, apiaka, arawete, arikem, arua, aruashi, asurinidoxingu, avacanoeiro, chiriguano, cintalarga, cocamacocamilla, emerillonteko, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juruna, kaaporurubu, kaiowa, kamayura, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parakana, parintintin, purubora, sateremawe, suruiaikewara, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, xipaya, yuki, zoe
-aia	a j a	1	unrounded open front vowel	sapukaia	nheengatu
-aii	ai	1	unrounded open front vowel	aii	monde
-aiu	a j u	1	unrounded open front vowel	kaiu	warazupauserna
-aĩ	a ĩ	1	from unrounded open front to nasalized unrounded close front diphthong	paĩɲ	karitiana
-ao	ao	44	from unrounded open front to rounded close-mid back diphthong	akaoka, ao, aoka	akuntsu, apiaka, arikem, avacanoeiro, emerillonteko, karoarara, kuruaya, makurap, mbya, mekenssakurabiat, munduruku, parakana, siriono, suruipaiter, tupari, wayampi, wayoro, zoe
-aoo	ao	1	unrounded open front vowel	tʃeβaoo	makurap
-aou	au	1	unrounded open front vowel	jaoukuyta	omagua
-au	au	35	from unrounded open front to rounded close back diphthong	au, auhu, auka	anambe, arawete, arua, asurinidoxingu, cocamacocamilla, emerillonteko, guajajara, guarayo, juruna, kamayura, kayabi, nheengatu, parintintin, sateremawe, suruiaikewara, tembe, tenharim, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, xipaya, yuki
-aua	a w a	1	unrounded open front vowel	jauajera	nheengatu
-ay	ai	6	from unrounded open front to rounded close front diphthong	etaybin, hay, kaypatpan	munduruku, omagua, suruipaiter, wayampi
-aya	a j a	2	unrounded open front vowel	malakaya, wapaya	tapiete, wayampi
-ayau	a j au	1	unrounded open front vowel	tayau	wayampi
-ayu	a j u	1	unrounded open front vowel	mayu	guaja
-ayã	a j ã	1	unrounded open front vowel	rurayã	guayakiache
-ayú	a j ú/u	1	unrounded open front vowel	apayú	juruna
-ayĩ	a j ĩ	1	unrounded open front vowel	yaʔayĩ	wayampi
-ayɨ	a j ɨ	1	unrounded open front vowel	yawayɨ	wayampi
-aà	aà/aː	3	unrounded open front vowel	kaà, paàt	gaviaoikoloehj
-aá	aá/aː	5	unrounded open front vowel	aán, kwinaá, paádja'ʔo	arikem, aweti, gaviaoikoloehj, monde
-aã	aã/ãː	11	unrounded open front vowel	akaãŋ, kudaã, maã	akuntsu, apiaka, nheengatu, purubora, tapirapeapyawa, xipaya
-aí	a í/i	4	unrounded open front vowel	asaí, aíkõn, haímbe	kuruaya, mekenssakurabiat, nheengatu, tapiete
-aõ	aõ	4	unrounded open front vowel	aõdaʔ, jaõpi, kaõg	arikem, kuruaya, munduruku, wayoro
-aú	a ú/u	2	unrounded open front vowel	jarakatʃiʔaú, mbaú	asurinidotocantins, nheengatu
-aĩ	aĩ	15	from unrounded open front to nasalized unrounded close front diphthong	anaĩbɨa, aĩ, aĩbí	chiripanandevaavaguarani, guaja, guaraniparaguay, guarayo, juruna, kuruaya, mbya, parintintin, purubora, yuki
-aĩa	aĩ a	1	unrounded open front vowel	ɲaĩatɨ	mbya
-aĩ́	aĩ́/ĩ	1	unrounded open front vowel	aĩ́hĩ́	munduruku
-aũ	aũ	4	unrounded open front vowel	ataũ, aũnda, mákũdaũ	juruna, wayoro, xipaya
-aũi	aũ i	1	unrounded open front vowel	aũi	zoe
-aɤa	a ɣ a	1	unrounded open front vowel	kaɤakarã	avacanoeiro
-aɨ	aɨ	78	from unrounded open front to unrounded close central diphthong	awaɨpam, aɨ, aɨmanta	akuntsu, amondawa, arikem, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiripanandevaavaguarani, cocamacocamilla, emerillonteko, gaviaoikoloehj, guaraniparaguay, guarayo, guayakiache, kaaporurubu, kamayura, karoarara, kayabi, makurap, mbya, mekenssakurabiat, parakana, sateremawe, tapiete, tupari, urueuwauwau, warazupauserna, wayampi, wayoro
-aɨa	aɨ a	2	unrounded open front vowel	aɨam, pʷaɨanti	omagua, tupari
-aɨya	aɨ j a	1	unrounded open front vowel	kwalaɨya	wayampi
-aɨ̃	aɨ̃	3	unrounded open front vowel	aɨ̃, aɨ̃j, maɨ̃j	avacanoeiro, mbya, tapirapeapyawa
-ã	ã	130	nasalized unrounded open front vowel	anãtŋa, aɲãj, ã	akuntsu, apiaka, arua, aweti, gaviaoikoloehj, guaraniparaguay, kaaporurubu, karitiana, karoarara, mbya, mekenssakurabiat, purubora, siriono, suruipaiter, tapiete, tapirapeapyawa, tupari, xeta, zoro
-ãa	ãa/ãː	1	unrounded open front vowel	mãamgap	arua
-ãã	ãː	17	long nasalized unrounded open front vowel	ako-kããj, ãã, jokããt	arua, gaviaoikoloehj, zoro
-ãe	ãe	1	unrounded open front vowel	kirãe	siriono
-ãi	ãi	1	unrounded open front vowel	ãi	aweti
-ão	ão	2	unrounded open front vowel	tãʃão, ʃãok	tapirapeapyawa
-ã̃	aː	2	unrounded open front vowel	ĩnĩpɨʔã̃, jã̃	akuntsu, apiaka
-aẽ	aẽ	10	unrounded open front vowel	amaẽ, aẽre, kwaẽ	akuntsu, amondawa, juruna, mbya, parintintin, siriono, suruipaiter, tenharim, urueuwauwau
-b	b	1098	voiced bilabial stop consonant	-taba, aawob, aba	akuntsu, amondawa, anambe, apiaka, arawete, arikem, arua, aruashi, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, emerillonteko, gaviaoikoloehj, guaja, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juma, juruna, kaaporurubu, kaiowa, karitiana, karoarara, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parintintin, purubora, sateremawe, siriono, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, wayoro, xeta, xipaya, yuki, zoe, zoro
-bh	bʰ	1	aspirated voiced bilabial stop consonant	ibhin	suruipaiter
-bw	bʷ	9	labialized voiced bilabial stop consonant	ambwa, bwaʔa, bwe	guayakiache, yuki
-c	c/k	4	voiceless palatal stop consonant	macaco, maracaja, tecumã	emerillonteko, nheengatu
-d	d	627	voiced alveolar stop consonant	ad, adaat, adadaat	akuntsu, amondawa, anambe, apiaka, arawete, arikem, arua, chiriguano, chiripanandevaavaguarani, cintalarga, emerillonteko, gaviaoikoloehj, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juma, juruna, kaaporurubu, kaiowa, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, parintintin, purubora, sateremawe, siriono, suruipaiter, tapiete, tapirapeapyawa, tenharim, urueuwauwau, wayoro, xeta, xipaya, yuki, zoe, zoro
-ds	d s	3	voiced alveolar stop consonant	ndsbate, ondsajti	monde
-dw	dʷ	6	labialized voiced alveolar stop consonant	edwɨaraha, mendwir, mundwi	apiaka, nheengatu, tapiete, zoe
-dʒ	dʒ	391	voiced post-alveolar sibilant affricate consonant	adudʒa, adʒa, adʒahi	amondawa, anambe, arawete, arikem, arua, asurinidoxingu, avacanoeiro, chiriguano, chiripanandevaavaguarani, cintalarga, emerillonteko, gaviaoikoloehj, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juruna, kaiowa, karitiana, kayabi, kuruaya, makurap, mbya, monde, munduruku, parakana, parintintin, siriono, suruiaikewara, suruipaiter, tapiete, tenharim, urueuwauwau, wayoro, xeta, xipaya, zoe, zoro
-dʒw	dʒ w	1	voiced alveolar stop consonant	dʒweʔe	guayakiache
-d̥	d̥	1	devoiced voiced alveolar stop consonant	mirad̥a	xeta
-e	e	4162	unrounded close-mid front vowel	-apekot, -eʔá, -ire	akuntsu, amondawa, anambe, apiaka, arawete, arikem, arua, aruashi, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, cocamacocamilla, emerillonteko, gaviaoikoloehj, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parakana, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, xipaya, yuki, zoe, zoro
-ea	ea	69	from unrounded close-mid front to unrounded open front diphthong	apeape, batea, bekerea	akuntsu, amondawa, apiaka, arikem, asurinidoxingu, avacanoeiro, chiriguano, cocamacocamilla, emerillonteko, gaviaoikoloehj, guajajara, guarayo, juruna, kaiowa, kamayura, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, parakana, parintintin, sateremawe, siriono, suruipaiter, tembe, tenharim, tupari, urueuwauwau, wayampi, wayoro, xeta, xipaya
-eae	e ae	1	unrounded close-mid front vowel	ereaerea	makurap
-eai	e ai	1	unrounded close-mid front vowel	teain	monde
-eay	e ai	1	unrounded close-mid front vowel	jejeay	yuki
-eã	eã	1	unrounded close-mid front vowel	mamaʔeãj	tapirapeapyawa
-ee	eː	45	long unrounded close-mid front vowel	beera, beeraa, ee	arua, chiriguano, cintalarga, gaviaoikoloehj, karitiana, kayabi, makurap, mbya, mekenssakurabiat, monde, munduruku, parakana, siriono, suruipaiter, tupari, wayampi, zoro
-eẽ	eẽ/ẽː	1	unrounded close-mid front vowel	peẽ	tapirapeapyawa
-ei	ei	66	from unrounded close-mid front to unrounded close front diphthong	atʃeiwe, aʔeite, deim	amondawa, anambe, asurinidoxingu, chiriguano, cocamacocamilla, emerillonteko, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, kaaporurubu, kaiowa, kamayura, karoarara, kuruaya, makurap, mbya, munduruku, parakana, parintintin, sateremawe, siriono, suruiaikewara, tapiete, tapirapeapyawa, tembe, tenharim, tupari, warazupauserna, wayampi, xeta, zoe
-eia	e j a	1	unrounded close-mid front vowel	seiat	mekenssakurabiat
-eo	eo	21	from unrounded close-mid front to rounded close-mid back diphthong	aseo, aʔ-peonpeʔ, dʒeorok	akuntsu, amondawa, asurinidotocantins, chiriguano, karitiana, karoarara, makurap, munduruku, parintintin, siriono, tenharim, urueuwauwau, wayampi, wayoro, xeta
-eoi	e oi	1	unrounded close-mid front vowel	eoi	avacanoeiro
-eu	eu	25	from unrounded close-mid front to rounded close back diphthong	dʒeupi, euta, idʒeu	arikem, avacanoeiro, chiriguano, emerillonteko, guajajara, guaraniparaguay, guarayo, kaaporurubu, kaiowa, kayabi, mbya, nheengatu, purubora, siriono, suruiaikewara, tenharim, xeta, xipaya
-ey	ei	3	unrounded close-mid front vowel	geytoʔ, mamey, wasey	arikem, cintalarga, wayampi
-eyu	e j u	1	unrounded close-mid front vowel	teyu	wayampi
-eá	eá/ea	7	unrounded close-mid front vowel	areá, eámɨ, kutpireá	gaviaoikoloehj, guaja, monde, xipaya
-eã	eã	5	unrounded close-mid front vowel	eã, eãkʷãtoj, kbereã	anambe, guayakiache, siriono, tapirapeapyawa
-eé	eé/eː	1	unrounded close-mid front vowel	ʃeé	munduruku
-eí	eí/ei	3	unrounded close-mid front vowel	eím, eíra, tɨpeí	cintalarga, guaraniparaguay, guarayo
-eõ	eõ	2	unrounded close-mid front vowel	kaneõ	emerillonteko, kamayura
-eú	eú/eu	1	unrounded close-mid front vowel	mombeú	arawete
-eĩ	eĩ	6	unrounded close-mid front vowel	kjeĩ, peteĩ	guaraniparaguay, kaaporurubu, kaiowa, mbya, siriono, yuki
-eũ	eũ	2	unrounded close-mid front vowel	meũ, weʔeũja	juruna, sateremawe
-eə	eə	1	from unrounded close-mid front to unrounded mid central diphthong	dʒeəm	munduruku
-eɨ	eɨ	27	unrounded close-mid front vowel	eɨ, eɨnir, eɨpɨʔã	akuntsu, amondawa, arikem, guajajara, guarayo, guayakiache, kaaporurubu, kamayura, makurap, mekenssakurabiat, sateremawe, siriono, tupari, warazupauserna
-eɨ̃	eɨ̃	2	unrounded close-mid front vowel	eɨ̃, ɨreɨ̃	siriono
-ẽ	ẽ	39	nasalized unrounded close-mid front vowel	akẽ, anẽm, aʃẽj	anambe, arua, aweti, gaviaoikoloehj, guaraniparaguay, kaaporurubu, karitiana, karoarara, mekenssakurabiat, parintintin, purubora, sateremawe, siriono, suruipaiter, tapiete, tapirapeapyawa, tupari, xeta, zoro
-ẽẽ	ẽː	6	long nasalized unrounded close-mid front vowel	ii-jẽẽj, kɨmẽẽpo, mẽẽk	arua, gaviaoikoloehj, mekenssakurabiat, zoro
-e͂	e	2	unrounded close-mid front vowel	ape͂, poape͂	guaraniparaguay, guarayo
-eẽ	eẽ/ẽː	5	unrounded close-mid front vowel	peẽ, seẽ, tɨneẽ	chiriguano, guaraniparaguay, mbya, nheengatu
-f	f	8	voiceless labio-dental fricative consonant	arafuʔa, feʃãw, fuku	asurinidoxingu, chiripanandevaavaguarani, kaiowa, kayabi
-fw	f w	1	labialized voiceless labio-dental fricative consonant	fwakar	kayabi
-g	g	542	voiced velar stop consonant	aga, agaap, agaja	akuntsu, amondawa, anambe, apiaka, arikem, arua, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, cocamacocamilla, emerillonteko, gaviaoikoloehj, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juma, kaaporurubu, kaiowa, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, parakana, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tapirapeapyawa, tembe, tenharim, urueuwauwau, wayampi, wayoro, xeta, yuki, zoe, zoro
-gg	g	1	voiced velar stop consonant	saragga	karitiana
-gw	gw/gʷ	11	labialized voiced velar stop consonant	hoko-gwi, jiaragwe, najʤagwɨ	amondawa, chiriguano, monde, parintintin, tenharim, wayoro, xeta
-gʷ	gʷ	155	labialized voiced velar stop consonant	agʷa, agʷara, agʷaraʔi	amondawa, apiaka, chiriguano, chiripanandevaavaguarani, emerillonteko, guaraniparaguay, guarayo, guayakiache, jiahoi, kaiowa, kayabi, mbya, omagua, parintintin, siriono, tenharim, urueuwauwau, wayoro, xeta, yuki
-gʷw	g	1	voiced velar stop consonant	gʷwatsu	chiripanandevaavaguarani
-h	h	1222	voiceless glottal fricative consonant	adʒahi, adʒiha, adʒuruhu	akuntsu, amondawa, anambe, apiaka, arawete, arikem, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cocamacocamilla, emerillonteko, gaviaoikoloehj, guaja, guajajara, guaraniparaguay, guarayo, jiahoi, jora, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, munduruku, nheengatu, parakana, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, xeta, xipaya, yuki, zoe
-hw	hw/hʷ	4	labialized voiceless glottal fricative consonant	hwape, hwaratã, jakupemuhwã	amondawa, kamayura
-hʷ	hʷ	3	labialized voiceless glottal fricative consonant	hʷa, hʷat, hʷãʔi	kamayura
-i	i	4298	unrounded close front vowel	-ire, -iʔã, -le-miʔu	akuntsu, amondawa, anambe, apiaka, arawete, arikem, arua, aruashi, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, cocamacocamilla, emerillonteko, gaviaoikoloehj, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parakana, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, xipaya, yuki, zoe, zoro
-ia	ia	230	from unrounded close front to unrounded open front diphthong	akutia, alia, amajkiati	akuntsu, amondawa, anambe, apiaka, arikem, asurinidotocantins, asurinidoxingu, avacanoeiro, chiriguano, cintalarga, cocamacocamilla, gaviaoikoloehj, guaja, guajajara, guarayo, guayakiache, jiahoi, jora, juruna, kaaporurubu, kamayura, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parakana, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayoro, xeta, xipaya, yuki, zoe, zoro
-iaa	i aː	2	unrounded close front vowel	arariaa, tagiaa	monde, suruipaiter
-iao	i ao	1	unrounded close front vowel	ɲiao	siriono
-iau	i au	1	unrounded close front vowel	mboriau	mbya
-iaá	i aá/aː	1	unrounded close front vowel	kiaá	siriono
-iã	iã	2	from unrounded close front to nasalized unrounded open front diphthong	kiãmbarĩ, tiniãwatu	aweti, siriono
-ie	ie	25	from unrounded close front to unrounded close-mid front diphthong	bieraj, ehie, epie	amondawa, apiaka, arawete, guarayo, jora, kuruaya, mbya, munduruku, nheengatu, parintintin, siriono, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, zoe
-ii	iː	95	long unrounded close front vowel	amii, aŋiibe, batiigʔa	arua, chiriguano, cintalarga, emerillonteko, gaviaoikoloehj, guaja, guarayo, karitiana, karoarara, makurap, mekenssakurabiat, monde, nheengatu, purubora, siriono, suruipaiter, tupari, wayampi, wayoro, zoro
-io	io	30	from unrounded close front to rounded close-mid back diphthong	andioti, ariot, bio	amondawa, asurinidoxingu, avacanoeiro, chiriguano, emerillonteko, guarayo, guayakiache, jiahoi, jora, kuruaya, makurap, mekenssakurabiat, munduruku, parakana, siriono, tapirapeapyawa, tenharim, tupari, urueuwauwau, wayoro, xeta, yuki
-iõ	iõ	1	from unrounded close front to nasalized rounded close-mid back diphthong	tsiõp-tem	karoarara
-iu	iu	29	from unrounded close front to rounded close back diphthong	adúriu, amaniu, amõkiusuʔap	amondawa, apiaka, aruashi, avacanoeiro, chiriguano, cocamacocamilla, juruna, kayabi, nheengatu, omagua, parintintin, sateremawe, tenharim, urueuwauwau, xipaya, yuki
-iya	i j a	1	unrounded close front vowel	kuwawiya	wayampi
-iyu	i j u	1	unrounded close front vowel	kapiyuwa	wayampi
-iyã	i j ã	1	unrounded close front vowel	uwiyã	wayampi
-iá	iá/ia	8	unrounded close front vowel	biá, dʒiá, iá	chiriguano, gaviaoikoloehj, juruna, nheengatu, purubora, yuki
-iã	iã	18	from unrounded close front to nasalized unrounded open front diphthong	aniãŋ, atiã, berasiã	arawete, avacanoeiro, makurap, sateremawe, siriono, tapiete, tapirapeapyawa, xipaya, yuki
-iãã	i ãː	1	unrounded close front vowel	iãã	yuki
-ié	ié/ie	1	unrounded close front vowel	piéb	gaviaoikoloehj
-ií	ií/iː	1	unrounded close front vowel	ií	nheengatu
-iõ	iõ	4	from unrounded close front to nasalized rounded close-mid back diphthong	diʃiõ, piõn, pãriõ	apiaka, makurap, parakana, siriono
-iũ	iũ	4	from unrounded close front to nasalized rounded close back diphthong	nasiũna, tiũ, ɲatiũ	apiaka, avacanoeiro, xeta, yuki
-iə̃	iə̃	1	from unrounded close front to nasalized unrounded mid central diphthong	hiə̃kʷaa	xeta
-iɨ	iɨ	2	from unrounded close front to unrounded close central diphthong	ajiɨ, niɨt	aweti, wayampi
-ĩ	ĩ	44	nasalized unrounded close front vowel	anĩt, atĩ, aʔ-naʔĩn	apiaka, arua, aweti, gaviaoikoloehj, guaraniparaguay, kaaporurubu, karitiana, karoarara, mekenssakurabiat, purubora, siriono, tapirapeapyawa, tembe, xeta, zoro
-ĩĩ	ĩː	6	long nasalized unrounded close front vowel	kããlĩĩ, mĩĩna, βaakĩĩ	arua, gaviaoikoloehj, purubora, suruipaiter, zoro
-j	j	2350	voiced palatal approximant consonant	abaibitirõnkja, abijú, agaja	akuntsu, amondawa, anambe, apiaka, arawete, arikem, arua, aruashi, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, cocamacocamilla, emerillonteko, gaviaoikoloehj, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parakana, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, xipaya, yuki, zoe, zoro
-jh	dʒʰ	4	aspirated voiced post-alveolar sibilant affricate consonant	bijhaj, ehãjhu, katajhaj	amondawa, tembe, xeta
-ejs	ei s	5	voiced palatal approximant consonant	jsej, kajser, kɨjse	apiaka, arikem, makurap, mekenssakurabiat, omagua
-ejw	ei w	7	labialized voiced post-alveolar sibilant affricate consonant	dʒebəjwan, kʷejwehe, mujwasu	aweti, munduruku, omagua, suruiaikewara, suruipaiter, tupari
-ujw	ui w
-ajw	ai w
-ejw	ei w
-ajʃ	ai ʃ	7	voiced palatal approximant consonant	ajʃo, jajʃi, ktajʃi	cocamacocamilla, kaiowa, mbya, munduruku, purubora, tapiete
-ajʒ	ai ʒ	1	voiced palatal approximant consonant	hajʒjaj	xeta
-j̃	j̃	16	nasalized voiced palatal approximant consonant	ej̃uŋ, j̃epẽi, j̃uʔi	apiaka, arawete, asurinidoxingu, guarayo, karoarara, mbya, munduruku, sateremawe, tapiete, wayampi, yuki, zoe
-k	k	4769	voiceless velar stop consonant	-apekot, abaibitirõnkja, abakaʃi	akuntsu, amondawa, anambe, apiaka, arawete, arikem, arua, aruashi, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, cocamacocamilla, emerillonteko, gaviaoikoloehj, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parakana, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, xipaya, yuki, zoe, zoro
-kh	kʰ	1	aspirated voiceless velar stop consonant	ɨkha	siriono
-kk	kː	3	from voiceless velar stop to voiceless velar stop cluster	dʒitãkka, kokkok, nhɨkkɨjɨ̃mõ	arua, karitiana, munduruku
-ks	k s	2	voiceless velar stop consonant	aksɨa, kuksa	monde, omagua
-kw	kʷ	47	labialized voiceless velar stop consonant	aikwesa, akwa, akwatpe	akuntsu, amondawa, aweti, cocamacocamilla, guajajara, jora, mbya, mekenssakurabiat, monde, nheengatu, omagua, suruiaikewara, tapiete, tembe, tenharim, wayampi, xeta, zoe
-kʃ	k ʃ	1	voiceless velar stop consonant	kʃabi	munduruku
-kʲ	kʲ	2	palatalized voiceless velar stop consonant	kʲa	siriono, zoe
-kʷ	kʷ	433	labialized voiceless velar stop consonant	adɨkʷər, aikʷar, aikʷat	akuntsu, amondawa, anambe, apiaka, arikem, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cocamacocamilla, emerillonteko, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, juma, juruna, kaaporurubu, kaiowa, kamayura, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, nheengatu, omagua, parakana, parintintin, sateremawe, siriono, suruiaikewara, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, xipaya, yuki, zoe
-kʷs	kʷ s	1	voiceless velar stop consonant	kʷsi	apiaka
-kʷw	kʷw/kʷ	3	voiceless velar stop consonant	kʷwasew, mbaʔekʷw, sekʷwabiã	tapiete, xipaya, yuki
-l	l	314	voiced alveolar lateral approximant consonant	-le-miʔu, abookãlĩ, akale	arikem, arua, avacanoeiro, aweti, cintalarga, cocamacocamilla, emerillonteko, gaviaoikoloehj, juruna, kaiowa, kuruaya, makurap, monde, nheengatu, suruipaiter, wayampi, wayoro, yuki, zoro
-lʒ	l ʒ	11	voiced alveolar lateral approximant consonant	akulʒi, awɨlʒa, delʒek	juruna, kuruaya
-m	m	3360	voiced bilabial nasal consonant	-anam, -le-miʔu, -mita	akuntsu, amondawa, anambe, apiaka, arawete, arikem, arua, aruashi, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, cocamacocamilla, emerillonteko, gaviaoikoloehj, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parakana, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, xipaya, yuki, zoe, zoro
-mh	mʰ	2	aspirated voiced bilabial nasal consonant	humhai, hɨmhɨmã	karitiana, xeta
-mm	mː	2	voiced bilabial nasal consonant	kromme, tãɲ'ommɨ̃	guayakiache, karitiana
-ms	m s	8	voiced bilabial nasal consonant	amsi, amsiamʔe, amsik	apiaka, tupari
-mw	mʷ	5	labialized voiced bilabial nasal consonant	dʒɨmwe, mwa, mwatíri	arawete, arikem, cocamacocamilla, mbya, nheengatu
-n	n	2280	voiced alveolar nasal consonant	-ana-, -anam, -anã-	akuntsu, amondawa, anambe, apiaka, arawete, arikem, arua, aruashi, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, cocamacocamilla, emerillonteko, gaviaoikoloehj, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parakana, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, xipaya, yuki, zoe, zoro
-nh	nʰ	8	from voiced alveolar nasal to voiceless glottal fricative cluster	ahunhɨʔa, epnhõgo, mỹnhỹm	karitiana, makurap
-nn	nː	3	voiced alveolar nasal consonant	otannỹmỹn, tõn-nem, ãmãn.nã	karitiana, karoarara, makurap
-ns	n s	8	from voiced alveolar nasal to voiceless alveolar sibilant fricative cluster	amansuna, ensɨa, hunse	aruashi, karitiana, tapiete, tembe, tupari
-nw	n w	3	labialized voiced alveolar nasal consonant	maʔanwar, maʔanwat, tamanwa	kamayura, tembe
-nʃ	n ʃ	4	voiced alveolar nasal consonant	minʃi, mãnʃi, pájnʃa	anambe, tapiete
-ñ	ɲ	1	voiced palatal nasal consonant	ñumumba	siriono
-o	o	3321	rounded close-mid back vowel	-apekot, aawob, abatʃo	akuntsu, amondawa, anambe, apiaka, arawete, arikem, arua, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, emerillonteko, gaviaoikoloehj, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parakana, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, yuki, zoe, zoro
-oa	oa	130	from rounded close-mid back to unrounded open front diphthong	-tʃ-oa-t, agoaʔpat, ainkoatahap	akuntsu, amondawa, anambe, apiaka, arikem, arua, asurinidotocantins, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, emerillonteko, gaviaoikoloehj, guajajara, guaraniparaguay, guarayo, guayakiache, kaaporurubu, kaiowa, kamayura, karoarara, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, parakana, parintintin, purubora, sateremawe, suruiaikewara, suruipaiter, tenharim, tupari, urueuwauwau, wayoro, xeta, xipaya, yuki, zoro
-oaa	o aː	2	rounded close-mid back vowel	pãɲoaa, tamoaap	suruipaiter, wayoro
-oae	o ae	1	rounded close-mid back vowel	amoae	mbya
-oae͂	o aẽ	1	rounded close-mid back vowel	oae͂	siriono
-oe	oe	26	from rounded close-mid back to unrounded close-mid front diphthong	amoete, arimoete, boetoʔ	akuntsu, amondawa, asurinidotocantins, avacanoeiro, chiriguano, emerillonteko, jiahoi, kamayura, makurap, mbya, mekenssakurabiat, parakana, suruipaiter, tenharim, tupari, wayampi, zoe
-oeí	o eí/ei	1	rounded close-mid back vowel	poeí	kayabi
-oi	oi	32	from rounded close-mid back to unrounded close front diphthong	akoimbaʔe, amoi, amoige	apiaka, asurinidotocantins, cintalarga, guaraniparaguay, jora, kaaporurubu, kamayura, karitiana, makurap, mbya, parakana, parintintin, siriono, suruiaikewara, suruipaiter, tupari, warazupauserna, wayoro, yuki, zoe
-oo	oː	102	long rounded close-mid back vowel	abookãlĩ, adoo, adoop	arua, asurinidotocantins, chiriguano, cintalarga, gaviaoikoloehj, karitiana, makurap, mekenssakurabiat, monde, sateremawe, siriono, suruipaiter, tapirapeapyawa, tembe, tupari, wayoro, yuki, zoro
-ooa	oː a	1	rounded close-mid back vowel	nooa	suruipaiter
-ou	ou	1	from rounded close-mid back to rounded close back diphthong	aβijouhu	parintintin
-oy	oi	1	rounded close-mid back vowel	ekoy	wayampi
-oyu	o j u	1	rounded close-mid back vowel	moyu	wayampi
-oá	oá/oa	5	rounded close-mid back vowel	antʃoá, koárá, pagojameroá	cintalarga, jora, munduruku, purubora, xeta
-oã	oã	10	rounded close-mid back vowel	jeroã, mamoã, moã	arua, asurinidoxingu, emerillonteko, guayakiache, makurap, mbya, purubora, tapirapeapyawa, yuki
-oé	oé/oe	1	rounded close-mid back vowel	soédəp	munduruku
-oĩ	oĩ	6	rounded close-mid back vowel	amẽndoĩ-da, koĩ, mokoĩmokoĩ	aweti, kaaporurubu, kaiowa, mbya, munduruku
-oə	oə	3	from rounded close-mid back to unrounded mid central diphthong	meroə, pepoə	amondawa, arikem, makurap
-oɨ	oɨ	22	from rounded close-mid back to unrounded close central diphthong	boɨg, jepoɨru, moɨ	arua, avacanoeiro, chiriguano, chiripanandevaavaguarani, emerillonteko, gaviaoikoloehj, guaraniparaguay, guarayo, makurap, mekenssakurabiat, parakana, warazupauserna, wayampi, xeta
-oɨi	o ɨi	1	rounded close-mid back vowel	poɨiwu	kayabi
-oɨɨ	o ɨː	1	rounded close-mid back vowel	mekoɨɨt	suruipaiter
-oɨ̃	oɨ̃	1	rounded close-mid back vowel	mẽkoɨ̃t	monde
-õ	õ	59	nasalized rounded close-mid back vowel	agarajõ, dzõlõmpʔa, inamutõ	apiaka, arua, aweti, gaviaoikoloehj, kaaporurubu, karitiana, karoarara, mekenssakurabiat, purubora, tapiete, tapirapeapyawa, xeta, zoro
-õa	oa	1	rounded close-mid back vowel	amõa	zoro
-õẽ	õẽ	1	rounded close-mid back vowel	õẽjʔap	purubora
-õi	õi	1	rounded close-mid back vowel	βasõibiit	zoro
-õõ	õː	13	nasalized rounded close-mid back vowel	jõõβ-a, kõõj, mããlõõj	arua, gaviaoikoloehj, zoro
-oẽ	oẽ	4	rounded close-mid back vowel	koẽbu, oẽn, poẽpe	guayakiache, makurap, tenharim, wayoro
-p	p	4554	voiceless bilabial stop consonant	'ap, 'ep, 'op	akuntsu, amondawa, anambe, apiaka, arawete, arikem, arua, aruashi, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, cocamacocamilla, emerillonteko, gaviaoikoloehj, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parakana, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, xipaya, yuki, zoe, zoro
-pp	pː	3	voiceless bilabial stop consonant	epparako, peteppa, poppopʔa	karitiana, tupari
-ps	p s	21	from voiceless bilabial stop to voiceless alveolar sibilant fricative cluster	apsi, apsinʔõm, apsiripʔa	mekenssakurabiat, munduruku, tupari
-pw	pʷ	3	labialized voiceless bilabial stop consonant	inapwa, ipwap, itapwã	arua, nheengatu, xeta
-pʃ	p ʃ	4	voiceless bilabial stop consonant	goopʃiit, kipʃĩ, kopʃir	cintalarga, munduruku, zoro
-pʷ	pʷ	17	labialized voiceless bilabial stop consonant	jowosipʷuu, pʷa, pʷara	amondawa, anambe, arawete, avacanoeiro, aweti, cocamacocamilla, guajajara, guayakiache, kayabi, omagua, parintintin, tupari, wayampi, xeta
-p̃	p̃	1	nasalized voiceless bilabial stop consonant	irũp̃awẽ	kayabi
-r	r	3924	voiced alveolar trill consonant	-ire, abaibitirõnkja, abarari	akuntsu, amondawa, anambe, apiaka, arawete, arikem, arua, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, cocamacocamilla, emerillonteko, gaviaoikoloehj, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parakana, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, xipaya, yuki, zoe, zoro
-rh	rʰ	1	aspirated voiced alveolar trill consonant	kʷarha	xeta
-rr	rː	1	voiced alveolar trill consonant	berra	gaviaoikoloehj
-rw	r w	5	labialized voiced alveolar trill consonant	berwa, pirwara, urwap	cocamacocamilla, purubora, suruipaiter
-r̃	r̃	2	nasalized voiced alveolar trill consonant	kãr̃aŋ, ɲiõr̃owĩ	apiaka, makurap
-s	s	1002	voiceless alveolar sibilant fricative consonant	-sa, -séa, aikwesa	apiaka, arikem, arua, asurinidotocantins, avacanoeiro, chiriguano, chiripanandevaavaguarani, cintalarga, cocamacocamilla, emerillonteko, gaviaoikoloehj, guajajara, guaraniparaguay, guarayo, jora, juruna, kaaporurubu, kaiowa, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, sateremawe, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tembe, tupari, wayampi, wayoro, xeta, xipaya, yuki, zoe, zoro
-ss	sː	1	voiceless alveolar sibilant fricative consonant	jassi	kuruaya
-sw	s w	1	labialized voiceless alveolar sibilant fricative consonant	swinda	tapiete
-t	t	4059	voiceless alveolar stop consonant	-apekot, -mita, -taba	akuntsu, amondawa, anambe, apiaka, arawete, arikem, arua, aruashi, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, cocamacocamilla, emerillonteko, gaviaoikoloehj, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parakana, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, xipaya, yuki, zoe, zoro
-th	tʰ	3	aspirated voiceless alveolar stop consonant	hithit, sɨtheeɲ, ĩtha	cintalarga, karitiana, tupari
-ts	ts	294	voiceless alveolar sibilant affricate consonant	ajatso, ajtsi, akutsi	apiaka, arawete, arikem, arua, asurinidotocantins, aweti, chiripanandevaavaguarani, cintalarga, cocamacocamilla, emerillonteko, gaviaoikoloehj, guaja, guajajara, guarayo, jora, kamayura, karoarara, kayabi, makurap, mekenssakurabiat, monde, nheengatu, omagua, sateremawe, siriono, tembe, tupari, warazupauserna, xeta, yuki, zoro
-tt	tː	12	voiceless alveolar stop consonant	ewittap, jenpet.tik, mbottẽm	cintalarga, karitiana, karoarara, makurap, purubora, tupari, wayoro, zoro
-tw	t w	4	labialized voiceless alveolar stop consonant	apitwat, epatwat, kitwat	aweti, makurap, tupari
-tʃ	tʃ	710	voiceless post-alveolar sibilant affricate consonant	-tʃ-oa-t, abatʃi, abatʃo	akuntsu, amondawa, anambe, arawete, arikem, arua, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, cocamacocamilla, emerillonteko, gaviaoikoloehj, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juruna, kaaporurubu, kaiowa, karitiana, karoarara, kuruaya, makurap, mbya, monde, munduruku, nheengatu, omagua, parakana, parintintin, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, urueuwauwau, warazupauserna, wayoro, xeta, xipaya, yuki, zoe, zoro
-tʃw	tʃ w	1	voiceless alveolar stop consonant	tʃweʔe	guayakiache
-tʃ̠	tʃ	1	voiceless alveolar stop consonant	ɲãtʃ̠ĩʔũ	amondawa
-tʲ	tʲ	2	palatalized voiceless alveolar stop consonant	ãtʲĩ, tʲoro	tapirapeapyawa
-u	u	3890	rounded close back vowel	-le-miʔu, abaku, abum	akuntsu, amondawa, anambe, apiaka, arawete, arikem, arua, aruashi, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, cocamacocamilla, emerillonteko, gaviaoikoloehj, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parakana, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, xipaya, yuki, zoe, zoro
-ua	ua	161	from rounded close back to unrounded open front diphthong	ahua, ajkua, akua	amondawa, anambe, apiaka, arawete, arikem, asurinidoxingu, avacanoeiro, aweti, chiriguano, cintalarga, cocamacocamilla, emerillonteko, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juruna, kamayura, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, nheengatu, omagua, parintintin, purubora, sateremawe, siriono, suruiaikewara, tenharim, urueuwauwau, wayampi, xeta, xipaya, yuki, zoe
-uae	u ae	2	rounded close back vowel	ambuae, jakuaem	guarayo, kamayura
-uã	uã	1	from rounded close back to nasalized unrounded open front diphthong	e-iruã	siriono
-ue	ue	17	from rounded close back to unrounded close-mid front diphthong	adʒurue, ambue, amue	arawete, arua, asurinidoxingu, chiriguano, guajajara, guaraniparaguay, kaiowa, kamayura, kayabi, mbya, siriono, suruiaikewara, wayampi, xipaya
-ui	ui	39	from rounded close back to unrounded close front diphthong	buijána, dʒuija, dʒurui	anambe, apiaka, asurinidoxingu, avacanoeiro, aweti, chiriguano, cintalarga, cocamacocamilla, emerillonteko, guajajara, guaraniparaguay, guarayo, guayakiache, juruna, kaaporurubu, kaiowa, mbya, nheengatu, purubora, siriono, tembe
-uii	u iː	1	rounded close back vowel	kuii	chiriguano
-uo	uo	4	from rounded close back to rounded close-mid back diphthong	muo, muom, wapituoʔ	munduruku, sateremawe, suruiaikewara, tupari
-uoo	u oː	1	rounded close back vowel	uookaal	monde
-uu	uː	17	long rounded close back vowel	buura, guu, hanuun	asurinidoxingu, chiriguano, guayakiache, kayabi, nheengatu, purubora, sateremawe, siriono, suruipaiter, xipaya, yuki
-uũ	uũ	1	rounded close back vowel	tuũ	mbya
-uy	ui	2	rounded close back vowel	jaoukuyta, japukuy	omagua
-uyu	u j u	1	rounded close back vowel	tuyu	wayampi
-uá	uá/ua	6	rounded close back vowel	ahuá, aruá, juáʃi	chiriguano, jora, juruna, monde, nheengatu, xipaya
-uã	uã	16	rounded close back vowel	ikuã, ipuã, iβihuã	avacanoeiro, emerillonteko, guaraniparaguay, kuruaya, nheengatu, purubora, siriono, wayampi, xipaya, yuki, zoe
-uãĩ	u ãĩ	1	rounded close back vowel	uãĩ	yuki
-uã́	uã	1	rounded close back vowel	kuã́	juruna
-ué	ué/ue	1	rounded close back vowel	mbué	nheengatu
-uí	uí/ui	2	rounded close back vowel	iwikuí, uít	monde, nheengatu
-uú	uú/uː	1	rounded close back vowel	uún	arikem
-uĩ	uĩ	6	rounded close back vowel	amẽduĩ, atuĩ, kuĩ	anambe, chiriguano, mbya, nheengatu, sateremawe, xipaya
-uə	uə	1	from rounded close back to unrounded mid central diphthong	kʷihuə	guaja
-uɨ	uɨ	15	from rounded close back to unrounded close central diphthong	buɨʔɨ, dʒadʒuɨ, guɨra	arawete, cocamacocamilla, guaraniparaguay, guayakiache, juruna, nheengatu, omagua, siriono, tapiete, xeta, xipaya
-uʰ	uʰ/u	1	rounded close back vowel	dʒuʰ	asurinidoxingu
-ũ	ũ	11	nasalized rounded close back vowel	amũ, kũku, makũjkap	anambe, aweti, chiripanandevaavaguarani, kayabi, mbya, purubora, wayampi, xeta
-uẽ	uẽ	1	rounded close back vowel	pɨtuẽ	guarayo
-v	v	130	voiced labio-dental fricative consonant	ajvanindiva, ambotava, amova	amondawa, apiaka, arikem, asurinidoxingu, chiriguano, chiripanandevaavaguarani, cintalarga, gaviaoikoloehj, guaja, guaraniparaguay, guarayo, guayakiache, jiahoi, kaiowa, kayabi, mbya, nheengatu, omagua, parintintin, siriono, tenharim, urueuwauwau, zoro
-w	w	2006	voiced labio-velar approximant consonant	aawob, aerowa, ai-wẽ	akuntsu, amondawa, anambe, apiaka, arawete, arikem, arua, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, cocamacocamilla, emerillonteko, gaviaoikoloehj, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parakana, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, xipaya, yuki, zoe, zoro
-wh	wʰ	1	aspirated voiced labio-velar approximant consonant	hawhawaj	xeta
-ws	w s	1	voiced labio-velar approximant consonant	awsa	tupari
-ww	wː	1	voiced labio-velar approximant consonant	wawwaw	karoarara
-wʃ	w ʃ	1	voiced labio-velar approximant consonant	jawʃima	omagua
-x	x	7	voiceless velar fricative consonant	xinokjo, xiraa, xiramboa	gaviaoikoloehj, guajajara, yuki
-y	y	29	rounded close front vowel	atyk, egy, epkyjymy	karitiana
-ya	k a	8	from rounded close front to unrounded open front diphthong	ya, yakúpa, yamaka	wayampi, xipaya
-yae	j ae	1	rounded close front vowel	yaepetsui	cocamacocamilla
-yau	j au	1	rounded close front vowel	yau	wayampi
-ye	j e	1	from rounded close front to unrounded close-mid front diphthong	yet	karoarara
-yo	j o	1	from rounded close front to rounded close-mid back diphthong	pyotag	karitiana
-yu	j u	3	from rounded close front to rounded close back diphthong	yukururu, yukɨdɨ, yukɨ́dɨ́	juruna, omagua, xipaya
-yá	j á/a	2	rounded close front vowel	yá, yákúpá	juruna, xipaya
-yã	j ã	1	rounded close front vowel	yã	wayampi
-yõĩ	j õĩ	1	rounded close front vowel	yõĩ	wayampi
-yɨɨ	j ɨː	1	rounded close front vowel	yɨɨ	wayampi
-z	z	271	voiced alveolar sibilant fricative consonant	adzatɨ, akazu, akuzuʔjɨt	apiaka, arua, aweti, cintalarga, emerillonteko, gaviaoikoloehj, guaja, guajajara, guarayo, juruna, kaaporurubu, kuruaya, makurap, mekenssakurabiat, monde, purubora, sateremawe, tembe, xipaya, zoe, zoro
-à	à/a	30	?	akooβʔà, bàrpéh, dóʔà	gaviaoikoloehj, guajajara, juruna
-á	á/a	361	?	-eʔá, abákú, adʒorá	arawete, arikem, arua, aruashi, asurinidotocantins, asurinidoxingu, chiriguano, cintalarga, gaviaoikoloehj, guaja, guaraniparaguay, guarayo, guayakiache, jora, juruna, kaaporurubu, kaiowa, karoarara, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, purubora, suruipaiter, tapiete, tembe, tupari, warazupauserna, wayampi, xeta, xipaya, yuki, zoro
-áe	áe/ae	3	?	enáena, kʷimbáe, puráe	chiriguano, juruna, tapiete
-ái	ái/ai	4	?	kái, pái, wáid	kaiowa, suruipaiter, warazupauserna
-áo	áo/ao	1	?	ãsáo	suruipaiter
-áu	áu/au	1	?	náuhu	xipaya
-áya	á/a j a	1	?	tukáya	xipaya
-áà	áà/aː	1	?	máà	gaviaoikoloehj
-áá	áá/aː	1	?	mááj	suruipaiter
-áú	áú/au	2	?	anáúhu, ʔáú	juruna
-áĩ	áĩ/aĩ	1	?	káĩ	gaviaoikoloehj
-áɨ	áɨ/aɨ	1	?	akutipáɨ	kaiowa
-áẽ	áẽ/aẽ	2	?	máẽ, wáẽ	tapiete, xipaya
-â	â/a	2	unrounded open front with_falling_tone vowel	gojâna, kâàj	cintalarga, gaviaoikoloehj
-ã	ã	1223	nasalized unrounded open front vowel	-anã-, -iʔã, abookãlĩ	akuntsu, amondawa, anambe, apiaka, arawete, arikem, arua, aruashi, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, cocamacocamilla, emerillonteko, gaviaoikoloehj, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, parakana, parintintin, purubora, sateremawe, siriono, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, xipaya, yuki, zoe, zoro
-ãa	ãa/ãː	7	nasalized unrounded open front vowel	iijãajʔa, kãaj, kĩrãa	monde, suruipaiter
-ãe	ãe	5	nasalized unrounded open front vowel	hãe-ma, mãe, mãek	chiriguano, monde, wayoro
-ãi	ãi	12	nasalized unrounded open front vowel	ah-ãi, amɨnãip, gʷãinumbɨ	chiriguano, guaraniparaguay, guarayo, kaaporurubu, sateremawe, tapirapeapyawa, xeta, zoro
-ãia	ã j a	1	nasalized unrounded open front vowel	ãia	guayakiache
-ão	ão	5	nasalized unrounded open front vowel	ikão, kapitão, kãkãohok	kuruaya, mekenssakurabiat, monde, tapirapeapyawa
-ãu	ãu	1	nasalized unrounded open front vowel	mãʔjãu	kayabi
-ãy	ãi	5	nasalized unrounded open front vowel	kãkãy, tʃãytʃãy	kuruaya, wayampi
-ãã	ãː	19	nasalized unrounded open front vowel	ako-kããj, amookããr, gerepãã	arua, gaviaoikoloehj, monde, sateremawe, suruipaiter, yuki, zoro
-ãĩ	ãĩ	5	nasalized unrounded open front vowel	huβãĩ, sĩkãĩ, tãĩrukiatũnda	arawete, emerillonteko, yuki
-ãũ	ãũ	2	nasalized unrounded open front vowel	mãũ, ãũ	tapiete, wayampi
-ãɨ	ãɨ	5	nasalized unrounded open front vowel	hãɨ, pãɨ, tãɨp	chiriguano, siriono, tapirapeapyawa
-ã̀	ã̀/ã	1	nasalized unrounded open front vowel	xiʔã̀	gaviaoikoloehj
-ã́	ã́/ã	17	nasalized unrounded open front vowel	iʃiwã́ʔa, kítã́p, pasã́	arua, gaviaoikoloehj, juruna, karoarara, monde, munduruku, suruipaiter
-ã́ã́	ã́ã́/ãː	1	nasalized unrounded open front vowel	kã́ã́l	monde
-ãẽ	ãẽ	4	nasalized unrounded open front vowel	gʷãẽ, mãẽ, owãẽ	chiriguano, siriono, wayampi
-è	è/e	6	?	bolirápè, ipèh, kerè	gaviaoikoloehj
-èe	èe/eː	1	?	pèe	gaviaoikoloehj
-é	é/e	105	?	alimé, anemakojé, apéta	apiaka, arawete, arua, chiriguano, cintalarga, gaviaoikoloehj, guaja, guaraniparaguay, juruna, kaiowa, kamayura, karoarara, kuruaya, monde, munduruku, nheengatu, omagua, parakana, purubora, siriono, suruipaiter, tapiete, tembe, warazupauserna, wayampi, xeta, xipaya, yuki, zoe
-éa	éa/ea	2	?	-séa, béréaβ	gaviaoikoloehj, xipaya
-ée	ée/eː	2	?	kadéek, kaléer	suruipaiter
-éo	éo/eo	1	?	maréo	kuruaya
-éɨ	éɨ/eɨ	1	?	éɨɲi	warazupauserna
-ë	ë/e	3	centralized unrounded close-mid front vowel	kë, këdɨ, ɲajtë	xeta
-ëʒ	ë/e ʒ	1	centralized unrounded close-mid front vowel	këʒi	xeta
-ì	ì/i	11	?	bìriʃa, jaʔmì, jiìt	gaviaoikoloehj, karoarara, monde
-í	í/i	136	?	abekaní, ahpí, ajarí	arikem, arua, chiriguano, cintalarga, cocamacocamilla, gaviaoikoloehj, guaja, jora, juruna, karoarara, kuruaya, monde, munduruku, nheengatu, purubora, suruipaiter, tapiete, warazupauserna, xipaya, zoro
-ía	ía/ia	6	?	alía, itʃía, nuría	cintalarga, gaviaoikoloehj, karoarara, monde
-íe	íe/ie	1	?	kíe	kuruaya
-íi	íi/iː	5	?	kiríi, píi, wíirá	gaviaoikoloehj, monde, suruipaiter
-íá	íá/ia	4	?	aníá, apíáka, batʃíá	juruna
-íí	íí/iː	4	?	lííp, síítak, tíít	monde, suruipaiter
-í̜í	í̜í/iː	1	?	í̜í	gaviaoikoloehj
-î	î/i	1	unrounded close front with_falling_tone vowel	dʒîip	arua
-ð	ð	65	voiced dental fricative consonant	aði, aðiwe, aðu	kuruaya, warazupauserna
-ñ	ñ	5	?	pɨrɨñe, uʔuaña, ñomi	chiriguano, juruna, mekenssakurabiat
-ò	ò/o	7	?	gòpáko, móòj, pò	gaviaoikoloehj, zoro
-òh	òh/o	1	?	jòhβ	gaviaoikoloehj
-ó	ó/o	94	?	adó, adʒó, amó	arua, chiriguano, cintalarga, gaviaoikoloehj, guaja, kaiowa, karoarara, kuruaya, mekenssakurabiat, monde, munduruku, purubora, suruipaiter, tapiete, tembe, warazupauserna, zoe, zoro
-óh	ó/o h	4	?	iʃóhkáli, padápóhaβ, tapóh	gaviaoikoloehj
-ós	ó/o s	3	?	kósila, lósire, táporósá	gaviaoikoloehj, kuruaya
-ów	ó/o w	1	?	mbokówewá	purubora
-óó	óó/oː	6	?	adóóp, panóój, zóój	arua, gaviaoikoloehj, monde, suruipaiter, zoro
-óʃ	ó/o ʃ	1	?	póʃɨ	chiriguano
-õ	õ	376	nasalized rounded close-mid back vowel	abaibitirõnkja, agõkap, akõja	akuntsu, amondawa, apiaka, arawete, arikem, arua, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, emerillonteko, gaviaoikoloehj, guaja, guaraniparaguay, guarayo, guayakiache, jiahoi, juma, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, parakana, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, yuki, zoe, zoro
-õa	õa	8	nasalized rounded close-mid back vowel	agõa, agõapid, aŋõakab	chiriguano, karitiana, parintintin, suruipaiter, tenharim, urueuwauwau
-õe	õe	1	nasalized rounded close-mid back vowel	kõera	mbya
-õi	õi	1	nasalized rounded close-mid back vowel	i-põiʔam	sateremawe
-õo	õo	4	nasalized rounded close-mid back vowel	gõol, jõom, mõot	monde, tupari
-õy	õi	1	nasalized rounded close-mid back vowel	pɨkõy	wayampi
-õã	õã	4	nasalized rounded close-mid back vowel	agõã, kãnõã, mãnõã	chiripanandevaavaguarani, tupari, wayoro, zoro
-õõ	õõ/õ	6	nasalized rounded close-mid back vowel	jeχõõ, jõõ, kõõ	arua, siriono, suruipaiter, wayoro, yuki, zoro
-õõĩ	õõ/õː ĩ	1	nasalized rounded close-mid back vowel	õõĩ	suruipaiter
-õĩ	õĩ	2	nasalized rounded close-mid back vowel	jawɨsõĩ, õĩ	wayampi
-õǝ̃	õǝ̃	1	from nasalized rounded close-mid back to nasalized unrounded mid central diphthong	õǝ̃ʔ	makurap
-õẽ	õẽ	1	nasalized rounded close-mid back vowel	ikõẽrõ	munduruku
-õẽãi	õẽ ãi	1	nasalized rounded close-mid back vowel	ekõẽãi	kayabi
-ù	ù/u	7	?	bùgu, pabùga, pàkùa	gaviaoikoloehj, juruna
-ùh	ù/u h	1	?	parùhr	gaviaoikoloehj
-ú	ú/u	86	?	abijú, abákú, adúriu	chiriguano, cocamacocamilla, gaviaoikoloehj, jora, juruna, kaiowa, karoarara, kuruaya, mekenssakurabiat, monde, nheengatu, parintintin, purubora, suruipaiter, tapiete, warazupauserna, xeta, xipaya, yuki
-úa	úa/ua	3	?	iwúa-te, rúa, ulukúa	guaraniparaguay, jora, monde
-úi	úi/ui	1	?	kúire	warazupauserna
-úu	úu/uː	1	?	eitúu	chiriguano
-úá	úá/ua	2	?	kúá, makúá	juruna
-úú	úú/uː	1	?	túú	monde
-û	û/u	1	rounded close back with_falling_tone vowel	ŋgûj	cintalarga
-ā	ā/aː	1	long unrounded open front vowel	haʔāt	sateremawe
-ĩ	ĩ	382	nasalized unrounded close front vowel	abookãlĩ, ahĩma, amanĩjũ	akuntsu, amondawa, anambe, apiaka, arawete, arua, asurinidoxingu, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, emerillonteko, gaviaoikoloehj, guaja, guaraniparaguay, guarayo, guayakiache, jiahoi, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parintintin, purubora, sateremawe, siriono, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, wayampi, wayoro, xeta, xipaya, yuki, zoe, zoro
-ĩa	ĩa	1	nasalized unrounded close front vowel	kavĩa	chiriguano
-ĩi	ĩi/ĩ	8	nasalized unrounded close front vowel	awĩiwĩi, gĩija, sĩit	chiriguano, juruna, mekenssakurabiat, monde
-ĩu	ĩu	1	nasalized unrounded close front vowel	ɲatĩu	chiriguano
-ĩã	ĩã	5	nasalized unrounded close front vowel	amĩã, kapusĩã, kĩã	juruna, makurap, suruipaiter, wayoro, xipaya
-ĩĩ	ĩː	6	nasalized unrounded close front vowel	bĩĩ, pĩĩn, sĩĩt	arua, makurap, monde, suruipaiter, yuki
-ĩũ	ĩũ	1	nasalized unrounded close front vowel	ɲatʃĩũ	guarayo
-ĩə̃	ĩə̃	1	nasalized unrounded close front vowel	tʃĩə̃kʷãj	xeta
-ĩ̀	ĩ̀/ĩ	1	nasalized unrounded close front vowel	ʃihj​ĩ̀​jka	gaviaoikoloehj
-ĩ́	ĩ́/ĩ	3	nasalized unrounded close front vowel	apĩ́n, aĩ́hĩ́, sahg​ĩ́	gaviaoikoloehj, munduruku
-ŋ	ŋ	580	voiced velar nasal consonant	adiʃiŋ, ai-ʔakaŋ, aimeruŋ	akuntsu, amondawa, anambe, apiaka, arikem, arua, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, emerillonteko, gaviaoikoloehj, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, wayampi, wayoro, xeta, yuki, zoe, zoro
-ŋw	ŋʷ	1	voiced velar nasal consonant	apitŋwat	wayoro
-ŋʷ	ŋʷ	32	labialized voiced velar nasal consonant	areŋʷɨra, aŋʷamo, eŋʷaβik	amondawa, chiripanandevaavaguarani, guaraniparaguay, guarayo, kaaporurubu, mbya, mekenssakurabiat, parintintin, suruiaikewara, tenharim, urueuwauwau, wayampi, wayoro, xeta
-ŋʷw	ŋʷw/ŋʷ	1	voiced velar nasal consonant	ŋʷwrã	wayoro
-ō	ō/oː	1	long rounded close-mid back vowel	arōt	sateremawe
-ũ	ũ	234	nasalized rounded close back vowel	aetũʔã, aipũʔũjã, akũj	amondawa, anambe, apiaka, arawete, arikem, asurinidoxingu, aweti, chiriguano, chiripanandevaavaguarani, guaja, guaraniparaguay, guarayo, jiahoi, juruna, kaaporurubu, kaiowa, kamayura, kayabi, kuruaya, makurap, mbya, monde, munduruku, nheengatu, parakana, parintintin, purubora, sateremawe, tapiete, tenharim, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, xipaya, yuki, zoe, zoro
-ũa	ũa	4	nasalized rounded close back vowel	pũa, tirũa, ɲatʃiʔũa	chiriguano, parintintin, tenharim, urueuwauwau
-ũe	ũe	1	nasalized rounded close back vowel	pɨtũe	chiriguano
-ũi	ũi	2	nasalized rounded close back vowel	mukũi, ãpũi	arawete, kaaporurubu
-ũã	ũã	2	nasalized rounded close back vowel	kũã, pũã	urueuwauwau, xipaya
-ũĩ	ũĩ	4	nasalized rounded close back vowel	kũĩʔĩ, pikũĩ, ãmũĩ	emerillonteko, nheengatu, urueuwauwau, xipaya
-ũũ	ũũ/ũː	1	nasalized rounded close back vowel	ũũ	kayabi
-ǝ̃	ǝ̃	9	nasalized unrounded mid central vowel	akaɾinǝ̃ʔ, awǝ̃ŋ, jǝ̃j	makurap
-ɐ	ɐ	1	unrounded near-open central vowel	iʃupawɐ	apiaka
-ɑ̃	ɑ̃	4	nasalized unrounded open back vowel	hɑ̃wɑ̃ʃi, ɑ̃wɨiʃe, ɑ̃ʃoro	tapirapeapyawa
-ɑ̃i	ɑ̃i	1	unrounded open back vowel	ɑ̃ip	tapirapeapyawa
-ə	ə	234	unrounded mid central vowel	abə, adɨkʷər, akʷəj	amondawa, arawete, arikem, avacanoeiro, emerillonteko, guaja, guajajara, karoarara, makurap, mekenssakurabiat, munduruku, purubora, tembe, tenharim, urueuwauwau, warazupauserna, xeta, zoro
-əa	əa	2	from unrounded mid central to unrounded open front diphthong	andəa, kupəa	apiaka
-əi	əi	3	from unrounded mid central to unrounded close front diphthong	səi, ɲəi	arikem, makurap, munduruku
-əy	əi	2	from unrounded mid central to rounded close front diphthong	məy, ŋəybə	karoarara, munduruku
-əí	əí	1	unrounded mid central vowel	pitəí	tembe
-əə̃́	əə̃́/əə̃	1	unrounded mid central vowel	bəə̃́	munduruku
-əɨ	əɨ	2	from unrounded mid central to unrounded close central diphthong	əməɨ, əʔəɨ	warazupauserna
-ə́	ə́/ə	10	unrounded mid central with_high_tone vowel	dárə́k, kosə́da, məsə́kta	munduruku
-ə̃	ə̃	35	nasalized unrounded mid central vowel	anə̃ŋtatam, aŋṍbə̃, dʒə̃ŋdʒə̃ŋ	apiaka, avacanoeiro, karoarara, makurap, munduruku, purubora, xeta
-ə̃o	ə̃o	1	unrounded mid central vowel	namiʃə̃op	purubora
-ə̃y	ə̃i	1	unrounded mid central vowel	wə̃y	munduruku
-ə̃́	ə̃́/ə̃	6	unrounded mid central vowel	akanasə̃́, nasə̃́ŋ-pə, posə̃́ŋ	munduruku
-ɛ	ɛ	2	unrounded open-mid front vowel	tasa'ʔɛ, wɛtok	makurap, suruiaikewara
-ɤa	ɣ a	1	unrounded close-mid back vowel	ɤaʒo	xeta
-ɤo	ɣ o	1	unrounded close-mid back vowel	ɤow	avacanoeiro
-ɨ	ɨ	3624	unrounded close central vowel	aapɨ, abɨ, abɨku	akuntsu, amondawa, anambe, apiaka, arawete, arikem, arua, aruashi, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cocamacocamilla, emerillonteko, gaviaoikoloehj, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parakana, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, xipaya, yuki, zoe, zoro
-ɨa	ɨa	130	from unrounded close central to unrounded open front diphthong	aksɨa, akɨa, akɨapa	akuntsu, amondawa, apiaka, arikem, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, cocamacocamilla, emerillonteko, guajajara, guaraniparaguay, guarayo, jiahoi, juruna, kaaporurubu, kaiowa, kamayura, kayabi, kuruaya, makurap, mbya, omagua, parakana, parintintin, sateremawe, siriono, suruiaikewara, tapiete, tapirapeapyawa, tenharim, tupari, urueuwauwau, wayampi, xeta, xipaya, yuki, zoe
-ɨaa	ɨaː	1	unrounded close central vowel	pɨaa	guayakiache
-ɨai	ɨ ai	1	unrounded close central vowel	pɨai	kaaporurubu
-ɨau	ɨ au	5	unrounded close central vowel	dɨau, pɨau	chiriguano, kamayura, kayabi, wayampi, xipaya
-ɨe	ɨe	18	unrounded close central vowel	kɨe, mɨeʔɨm, pɨehu	akuntsu, arikem, asurinidotocantins, avacanoeiro, chiriguano, emerillonteko, guajajara, guaraniparaguay, kamayura, karitiana, makurap, mbya, mekenssakurabiat, sateremawe, yuki, zoe
-ɨi	ɨi	37	from unrounded close central to unrounded close front diphthong	itakɨrɨiro, javevɨi, jawewɨi	amondawa, apiaka, chiriguano, guaraniparaguay, guarayo, guayakiache, juma, kaaporurubu, kaiowa, kayabi, mekenssakurabiat, parintintin, sateremawe, tapirapeapyawa, tembe, tenharim, urueuwauwau, wayampi, wayoro
-ɨo	ɨo	5	unrounded close central vowel	heʔɨtʃɨo, pɨokatu, wɨom	emerillonteko, parakana, tapirapeapyawa
-ɨu	ɨu	16	from unrounded close central to rounded close back diphthong	amãndɨu, kɨuʔi, sɨu	amondawa, avacanoeiro, emerillonteko, guarayo, juruna, karoarara, omagua, parintintin, siriono, tenharim, wayampi
-ɨá	ɨá/ɨa	7	unrounded close central vowel	abɨá, amarɨápu, epɨá	chiriguano, juruna, xipaya
-ɨã	ɨã	7	unrounded close central vowel	kɨrɨrɨã, mbaʔerumbɨkɨãpe, muʃɨã	chiriguano, guarayo, makurap, purubora, siriono, tapiete, tapirapeapyawa
-ɨão	ɨ ão	1	unrounded close central vowel	ʔɨão	tapirapeapyawa
-ɨãã	ɨ ãː	1	unrounded close central vowel	wɨãã	tapiete
-ɨí	ɨí/ɨi	1	unrounded close central vowel	bɨílã	kuruaya
-ɨú	ɨú/ɨu	2	unrounded close central vowel	adɨú, nanɨú	juruna
-ɨĩ	ɨĩ	3	unrounded close central vowel	aʔɨĩ, pɨtuekɨĩ, õmakɨĩnã	karitiana, mbya, wayampi
-ɨũ	ɨũ	1	unrounded close central vowel	hovɨũ	guaraniparaguay
-ɨɨ	ɨː	47	long unrounded close central vowel	atɨɨt, biipkɨɨp, erɨɨtɨ	arua, asurinidotocantins, asurinidoxingu, chiriguano, cintalarga, gaviaoikoloehj, guayakiache, juruna, karitiana, karoarara, makurap, mekenssakurabiat, monde, parakana, sateremawe, siriono, suruiaikewara, suruipaiter, tapirapeapyawa, tupari, wayoro, zoro
-ɨɨa	ɨː a	1	unrounded close central vowel	ɨɨa	guaraniparaguay
-ɨɨi	ɨː i	1	unrounded close central vowel	mopirɨɨi	kayabi
-ɨ́	ɨ̃	10	unrounded close central vowel	akɨ́la, bɨ́kit, kakɨ́r	juruna, kaiowa, karoarara, kuruaya, suruipaiter, xipaya
-ɨ́i	ɨ́i	1	unrounded close central vowel	pɨahɨ́i	kaiowa
-ɨ́á	ɨ́á/ɨ̃a	1	unrounded close central vowel	ipɨ́á	juruna
-ɨ̃	ɨ̃	167	nasalized unrounded close central vowel	ajɨ̃tatɨt, akanɨ̃, akɨ̃	amondawa, anambe, apiaka, arawete, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, emerillonteko, guaja, guaraniparaguay, guarayo, guayakiache, jiahoi, juma, kaaporurubu, kaiowa, kamayura, karitiana, kayabi, makurap, mbya, mekenssakurabiat, munduruku, parintintin, purubora, sateremawe, siriono, suruiaikewara, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, wayampi, wayoro, xipaya, zoe
-ɨ̃a	ɨ̃a	3	unrounded close central vowel	aekɨ̃a	amondawa, jiahoi, tenharim
-ɨ̃i	ɨ̃i	10	unrounded close central vowel	apɨ̃i, apɨ̃imbu, aʔɨ̃i	avacanoeiro, guaraniparaguay, guarayo, kaiowa, kayabi, mbya
-ɨ̃y	ɨ̃y	1	unrounded close central vowel	kɨʔɨ̃y	wayampi
-ɨ̃ã	ɨ̃ã	1	unrounded close central vowel	anarepɨ̃ã	zoe
-ɨ̃ĩ	ɨ̃ĩ	1	unrounded close central vowel	mɨ̃ĩnã	karitiana
-ɨ̃ɨ̃	ɨ̃ː	9	nasalized unrounded close central vowel	amɨ̃ɨ̃, bagambagapkɨ̃ɨ̃t, kiirɨ̃ɨ̃n	arua, gaviaoikoloehj, guaja, mekenssakurabiat, suruipaiter, zoro
-ɬ	ɬ	1	voiceless alveolar lateral fricative consonant	joɬkap	suruipaiter
-ɲ	ɲ	356	voiced palatal nasal consonant	ahaɲ, akoɲa, akʷaɲ	akuntsu, amondawa, anambe, apiaka, arawete, arikem, arua, asurinidoxingu, avacanoeiro, chiriguano, chiripanandevaavaguarani, cintalarga, cocamacocamilla, emerillonteko, guaraniparaguay, guarayo, jiahoi, juruna, kaiowa, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, parakana, parintintin, purubora, sateremawe, siriono, suruipaiter, tapiete, tenharim, tupari, urueuwauwau, warazupauserna, wayoro, xeta, xipaya, yuki, zoe
-ɾ	ɾ	12	voiced alveolar tap consonant	akaɾinǝ̃ʔ, ateɾ, atuɾuʔe	emerillonteko, makurap, suruiaikewara
-ʃ	ʃ	404	voiceless post-alveolar sibilant fricative consonant	abakaʃi, adiʃiŋ, aiʃo	amondawa, anambe, apiaka, avacanoeiro, chiriguano, chiripanandevaavaguarani, cintalarga, cocamacocamilla, gaviaoikoloehj, guaja, guajajara, guaraniparaguay, jora, juruna, kaaporurubu, kaiowa, karoarara, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, omagua, parakana, purubora, siriono, suruipaiter, tapiete, tapirapeapyawa, urueuwauwau, xeta, xipaya, zoro
-ʃs	ʃ s	1	voiceless post-alveolar sibilant fricative consonant	ʃsakakɨj	purubora
-ʊ	ʊ	1	rounded near-close near-back vowel	dʒakʊj	xeta
-ʒ	ʒ	43	voiced post-alveolar sibilant fricative consonant	aʒuru, aʒɨ, boʒa	arawete, asurinidoxingu, avacanoeiro, aweti, cintalarga, gaviaoikoloehj, mekenssakurabiat, monde, nheengatu, purubora, sateremawe, tapiete, tenharim, urueuwauwau, xeta, zoro
-ʔ	ʔ	2335	voiceless glottal stop consonant	-eʔá, -iʔã, -le-miʔu	amondawa, anambe, apiaka, arawete, arikem, arua, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, cocamacocamilla, emerillonteko, gaviaoikoloehj, guaja, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, jora, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, parakana, parintintin, purubora, sateremawe, siriono, suruiaikewara, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, warazupauserna, wayampi, wayoro, xeta, xipaya, yuki, zoe, zoro
-ʔh	ʔ h	1	voiceless glottal affricate consonant	eʔhuj	parintintin
-ʔs	ʔ s	1	voiceless glottal stop consonant	kɨʔsat	sateremawe
-ʔw	ʔ w	11	voiceless glottal stop consonant	amaʔwa, jemiʔwat, kɨʔwap	aweti, karoarara, kayabi, xeta
-ʔʃ	ʔ ʃ	4	voiceless glottal stop consonant	koroʔʃit, maʔʃun, piʔʃap	karoarara
-ʝ	ʝ	2	voiced palatal fricative consonant	aɨʝe, maniʝu	warazupauserna
-ʤ	dʒ	17	voiced post-alveolar sibilant affricate consonant	aʤɨg, aʤɨr, bapaʤu	akuntsu, emerillonteko, munduruku, xeta
-ʧ	tʃ	5	voiceless post-alveolar sibilant affricate consonant	daʤekʧó, maʧu, ʧóʔa	cintalarga, kuruaya, monde, munduruku
-β	β	595	voiced bilabial fricative consonant	ahɨβaʔe, aiβer, ajahiβ	amondawa, anambe, apiaka, arawete, arikem, arua, asurinidotocantins, asurinidoxingu, avacanoeiro, aweti, chiriguano, chiripanandevaavaguarani, cintalarga, gaviaoikoloehj, guajajara, guaraniparaguay, guarayo, guayakiache, jiahoi, kaiowa, kamayura, kayabi, makurap, mbya, monde, parakana, parintintin, purubora, siriono, suruiaikewara, tapiete, tenharim, tupari, urueuwauwau, wayampi, wayoro, xeta, xipaya, yuki, zoe, zoro
-χ	χ	5	voiceless uvular fricative consonant	esuχĩ, jeχõõ, χa	yuki
-ṍ	ṍ/õ	17	?	aŋṍbə̃, bórṍ, dʒ​ṍ​ógá	arua, gaviaoikoloehj, kuruaya, munduruku, zoro
-ṍa	ṍa/õa	1	?	tʃṍabe	karoarara
-ṍṍ	ṍṍ/õː	4	?	geerṍṍ, ikṍṍl, ikṍṍr	arua, monde, suruipaiter
-ẽ	ẽ	337	nasalized unrounded close-mid front vowel	ai-wẽ, aimẽʔe, ajameʔẽ	akuntsu, amondawa, anambe, apiaka, arawete, arua, asurinidoxingu, aweti, chiriguano, chiripanandevaavaguarani, emerillonteko, gaviaoikoloehj, guaja, guaraniparaguay, guarayo, guayakiache, jiahoi, juma, juruna, kaaporurubu, kaiowa, kamayura, karitiana, karoarara, kayabi, kuruaya, makurap, mbya, mekenssakurabiat, monde, munduruku, nheengatu, parakana, parintintin, purubora, sateremawe, siriono, suruipaiter, tapiete, tapirapeapyawa, tembe, tenharim, tupari, urueuwauwau, wayampi, wayoro, xeta, xipaya, yuki, zoe
-ẽa	ẽa	11	nasalized unrounded close-mid front vowel	eʔẽahĩm, pẽhẽa, tumahẽa	amondawa, jiahoi, parintintin, tenharim, urueuwauwau
-ẽe	ẽe	8	nasalized unrounded close-mid front vowel	gʷẽe, hẽe, kavẽe	chiriguano, monde, wayoro
-ẽi	ẽi	2	nasalized unrounded close-mid front vowel	j̃epẽi, uwẽi	guarayo, sateremawe
-ẽã	ẽã	3	nasalized unrounded close-mid front vowel	hẽã, pĩrẽã, ẽã	tapiete, tapirapeapyawa, xipaya
-ẽõ	ẽõ	1	nasalized unrounded close-mid front vowel	pẽõj	tupari
-ẽ́	ẽ	1	nasalized unrounded close-mid front vowel	tʃẽ́m	munduruku
-ẽẽ	ẽː	12	nasalized unrounded close-mid front vowel	ijesẽẽ, jẽẽj, jẽẽt	arua, gaviaoikoloehj, karitiana, makurap, mekenssakurabiat, tupari, wayoro, yuki, zoro
-ỹ	ỹ	10	nasalized rounded close front vowel	atỹnã, mẽjehỹg, mỹnhỹm	karitiana
-​	NULL	12	?	bolig​ó​hβ, bolíβ​a​β, dʒ​ṍ​ógá	arua, gaviaoikoloehj
-​h	h	3	?	bolig​ó​hβ, ʃíbòjk​ò​hβ, ʃíb​ú​hn	gaviaoikoloehj
-’	ʔ	1	?	tawɨtu’jɨt	aweti
-ⁿdʒ	ⁿdʒ	1	pre-nasalized voiced post-alveolar affricate consonant	ⁿdʒoitkap	cintalarga
--	+	
-_	+
+Grapheme	IPA
+	NULL
+w	w
+'a	ʔ a
+'e	ʔ e
+'o	ʔ o
+'y	ʔ y
+'õ	ʔ õ
+'ĩ	ʔ ĩ
+'ʔ	ʔ
+*	NULL
+**	NULL
+-	+
 .	+
+;	NULL
 K	k
-õ̀h	õ h
-ĩ̄ja	ĩ j a
+_	+
+a	a
+aa	aː
+aaa	aː
+aai	a
+ae	ae
+aea	a ea
+aeo	a eo
+aeã	a eã
+aẽ	aẽ
+ai	ai
+aia	a j a
+aii	ai
+aiu	a j u
+ajw	ai w
+ajʃ	ai ʃ
+ajʒ	ai ʒ
+ao	ao
+aoo	ao
+aou	au
+au	au
+aua	a w a
+ay	ai
+aya	a j a
+ayau	a j au
+ayu	a j u
+ayã	a j ã
+ayú	a j ú/u
+ayĩ	a j ĩ
+ayɨ	a j ɨ
+aà	aà/aː
+aá	aá/aː
+aã	aã/ãː
+aí	aí/ai
+aõ	aõ
+aú	aú/au
+aĩ	aĩ
+aĩa	aĩ a
+aĩ́	aĩ́/aĩ
+aũ	aũ
+aũi	aũ i
+aɤa	a ɣ a
+aɨ	aɨ
+aɨa	aɨ a
+aɨya	aɨ j a
+aɨ̃	aɨ̃
+ã	ã
+ãa	ãa/ãː
+ãã	ãː
+ãe	ãe
+ãi	ãi
+ão	ão
+ã̃	aː
+b	b
+bh	bʰ
+bw	bʷ
+c	c/k
+d	d
+ds	d s
+dw	dʷ
+dʒ	dʒ
+dʒw	dʒ w
+d̥	d̥
+d͡ʒ	dʒ
+e	e
+ea	ea
+eae	e ae
+eai	e ai
+eay	e ai
+eã	eã
+ee	eː
+eẽ	eẽ/ẽː
+ei	ei
+eia	e j a
+ejs	ei s
+ejw	ei w
+eo	eo
+eoi	e oi
+eu	eu
+ey	ei
+eyu	e j u
+eá	eá/ea
+eé	eé/eː
+eí	eí/ei
+eõ	eõ
+eú	eú/eu
+eĩ	eĩ
+eũ	eũ
+eə	eə
+eɨ	eɨ
+eɨ̃	eɨ̃
+ẽ	ẽ
+ẽẽ	ẽː
+e͂	e
+f	f
+fw	f w
+g	g
+gg	g
+gw	gw/gʷ
+gʷ	gʷ
+gʷw	g
+h	h
+hw	hw/hʷ
+hʷ	hʷ
+i	i
+ia	ia
+iaa	i aː
+iao	i ao
+iau	i au
+iaá	i aá/aː
+iã	iã
+ie	ie
+ii	iː
+io	io
+iõ	iõ
+iu	iu
+iya	i j a
+iyu	i j u
+iyã	i j ã
+iá	iá/ia
+iãã	i ãː
+ié	ié/ie
+ií	ií/iː
+iũ	iũ
+iə̃	iə̃
+iɨ	iɨ
+ĩ	ĩ
+ĩĩ	ĩː
+j	j
+jh	dʒʰ
 joçó	j o ç ó/o
-tapɨɨ́	t a p ɨː
-ɨ́	ɨ
-ɨkeɨ́	i k eɨ
+j̃	j̃
+k	k
+kh	kʰ
+kk	kː
+ks	k s
+kw	kʷ
+kʃ	k ʃ
+kʲ	kʲ
+kʷ	kʷ
+kʷs	kʷ s
+kʷw	kʷw/kʷ
+l	l
+lʒ	l ʒ
+m	m
 mb	mb/ⁿb
+mh	mʰ
+mm	mː
+mp	mp/ⁿp
+ms	m s
+mw	mʷ
+n	n
 nd	nd/ⁿd
 ndʒ	ndʒ/ⁿdʒ
+nh	nʰ
+nn	nː
+ns	n s
+nw	n w
+nʃ	n ʃ
+ñ	ɲ
+o	o
+oa	oa
+oaa	o aː
+oae	o ae
+oae͂	o aẽ
+oe	oe
+oeí	o eí/ei
+oi	oi
+oo	oː
+ooa	oː a
+ou	ou
+oy	oi
+oyu	o j u
+oá	oá/oa
+oã	oã
+oé	oé/oe
+oĩ	oĩ
+oə	oə
+oɨ	oɨ
+oɨi	o ɨi
+oɨɨ	o ɨː
+oɨ̃	oɨ̃
+õ	õ
+õa	oa
+õẽ	õẽ
+õi	õi
+õõ	õː
+oẽ	oẽ
+p	p
+pp	pː
+ps	p s
+pw	pʷ
+pʃ	p ʃ
+pʷ	pʷ
+p̃	p̃
+r	r
+rh	rʰ
+rr	rː
+rw	r w
+r̃	r̃
+s	s
+ss	sː
+sw	s w
+t	t
+tapɨɨ́	t a p ɨː
+th	tʰ
+ts	ts
+tt	tː
+tw	t w
+tʃ	tʃ
+tʃw	tʃ w
+tʃ̠	tʃ
+tʲ	tʲ
+t͡s	ts
+t͡ʃ	tʃ
+u	u
+ua	ua
+uae	u ae
+uã	uã
+ue	ue
+ui	ui
+uii	u iː
+ujw	ui w
+uo	uo
+uoo	u oː
+uu	uː
+uũ	uũ
+uy	ui
+uyu	u j u
+uá	uá/ua
+uãĩ	u ãĩ
+uã́	uã
+ué	ué/ue
+uí	uí/ui
+uú	uú/uː
+uĩ	uĩ
+uə	uə
+uɨ	uɨ
+uʰ	uʰ/u
+ũ	ũ
+uẽ	uẽ
+v	v
+w	w
+wh	wʰ
+ws	w s
+ww	wː
+wʃ	w ʃ
+x	x
+y	y
+ya	k a
+yae	j ae
+yau	j au
+ye	j e
+yo	j o
+yu	j u
+yá	j á/a
+yã	j ã
+yõĩ	j õĩ
+yɨɨ	j ɨː
+z	z
+à	à/a
+á	á/a
+áe	áe/ae
+ái	ái/ai
+áo	áo/ao
+áu	áu/au
+áya	á/a j a
+áà	áà/aː
+áá	áá/aː
+áú	áú/au
+áĩ	áĩ/aĩ
+áɨ	áɨ/aɨ
+áẽ	áẽ/aẽ
+â	â/a
+ãia	ã j a
+ãu	ãu
+ãy	ãi
+ãĩ	ãĩ
+ãũ	ãũ
+ãɨ	ãɨ
+ã̀	ã̀/ã
+ã́	ã́/ã
+è	è/e
+èe	èe/eː
+é	é/e
+éa	éa/ea
+ée	ée/eː
+éo	éo/eo
+éɨ	éɨ/eɨ
+ë	ë/e
+ëʒ	ë/e ʒ
+ì	ì/i
+í	í/i
+ía	ía/ia
+íe	íe/ie
+íi	íi/iː
+íá	íá/ia
+íí	íí/iː
+í̜í	í̜í/iː
+î	î/i
+ð	ð
+ò	ò/o
+òh	òh/o
+ó	ó/o
+óh	ó/o h
+ós	ó/o s
+ów	ó/o w
+óó	óó/oː
+óʃ	ó/o ʃ
+õe	õe
+õo	õo
+õy	õi
+õã	õã
+õõĩ	õõ/õː ĩ
+õĩ	õĩ
+õǝ̃	õǝ̃
+õ̀h	õ h
+õẽãi	õẽ ãi
+ù	ù/u
+ùh	ù/u h
+ú	ú/u
+úa	úa/ua
+úi	úi/ui
+úu	úu/uː
+úá	úá/ua
+úú	úú/uː
+û	û/u
+ā	ā/aː
+ĩa	ĩa
+ĩi	ĩi/ĩ
+ĩu	ĩu
+ĩã	ĩã
+ĩũ	ĩũ
+ĩə̃	ĩə̃
+ĩ̀	ĩ̀/ĩ
+ĩ́	ĩ́/ĩ
+ĩ̄ja	ĩ j a
+ŋ	ŋ
 ŋg	ŋg/ⁿg
+ŋgʷ	ŋgʷ/ⁿgʷ
 ŋk	ŋk/ⁿg
 ŋkʷ	ŋkʷ/ⁿkʷ
-ŋgʷ	ŋgʷ/ⁿgʷ
-mp	mp/ⁿp
+ŋw	ŋʷ
+ŋʷ	ŋʷ
+ŋʷw	ŋʷw/ŋʷ
+ō	ō/oː
+ũa	ũa
+ũe	ũe
+ũi	ũi
+ũã	ũã
+ũĩ	ũĩ
+ũũ	ũũ/ũː
+ǝ̃	ǝ̃
+ɐ	ɐ
+ɑ̃	ɑ̃
+ɑ̃i	ɑ̃i
+ɔ	ɔ
+ə	ə
+əa	əa
+əi	əi
+əy	əi
+əí	əí
+əə̃́	əə̃́/əə̃
+əɨ	əɨ
+ə́	ə́/ə
+ə̃	ə̃
+ə̃o	ə̃o
+ə̃y	ə̃i
+ə̃́	ə̃́/ə̃
+ɛ	ɛ
+ɣ	ɣ
+ɤ	ɣ
+ɤa	ɣ a
+ɤo	ɣ o
+ɨ	ɨ
+ɨa	ɨa
+ɨaa	ɨaː
+ɨai	ɨ ai
+ɨau	ɨ au
+ɨe	ɨe
+ɨi	ɨi
+ɨkeɨ́	i k eɨ
+ɨo	ɨo
+ɨu	ɨu
+ɨá	ɨá/ɨa
+ɨã	ɨã
+ɨão	ɨ ão
+ɨãã	ɨ ãː
+ɨí	ɨí/ɨi
+ɨú	ɨú/ɨu
+ɨĩ	ɨĩ
+ɨũ	ɨũ
+ɨɨ	ɨː
+ɨɨa	ɨː a
+ɨɨi	ɨː i
+ɨ́	ɨ
+ɨ́i	ɨ́i/ɨi
+ɨ́á	ɨ́á/ɨa
+ɨ̃	ɨ̃
+ɨ̃a	ɨ̃a
+ɨ̃i	ɨ̃i
+ɨ̃y	ɨ̃y/ɨ
+ɨ̃ã	ɨ̃ã/ɨ̃ã
+ɨ̃ĩ	ɨ̃ĩ
+ɨ̃ɨ̃	ɨ̃ː
+ɪ	ɪ
+ɬ	ɬ
+ɲ	ɲ
+ɾ	ɾ
+ʃ	ʃ
+ʃs	ʃ s
+ʊ	ʊ
+ʐ	ʐ
+ʒ	ʒ
+ʔ	ʔ
+ʔh	ʔ h
+ʔs	ʔ s
+ʔw	ʔ w
+ʔʃ	ʔ ʃ
+ʝ	ʝ
+ʤ	dʒ
+ʧ	tʃ
+β	β
+χ	χ
+ṍ	ṍ/õ
+ṍa	ṍa/õa
+ṍṍ	ṍṍ/õː
+ẽa	ẽa
+ẽi	ẽi
+ẽã	ẽã
+ẽõ	ẽõ
+ẽ́	ẽ
+ỹ	ỹ
+​	NULL
+​h	h
+’	ʔ
+ⁿdʒ	ⁿdʒ
