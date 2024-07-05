@@ -40,14 +40,14 @@ We could not resolve these cases and will leave them for now, but we will update
 
 
 [![CLDF validation](https://github.com/lexibank/gerarditupi/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/gerarditupi/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 92%](https://img.shields.io/badge/Glottolog-92%25-green.svg "Glottolog: 92%")
+![Glottolog: 98%](https://img.shields.io/badge/Glottolog-98%25-green.svg "Glottolog: 98%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 38
-- **Concepts:** 244
+- **Varieties:** 38 (linked to 37 different Glottocodes)
+- **Concepts:** 244 (linked to 242 different Concepticon concept sets)
 - **Lexemes:** 7,621
 - **Sources:** 74
 - **Synonymy:** 1.00
@@ -55,7 +55,7 @@ We could not resolve these cases and will leave them for now, but we will update
 - **Cognate Diversity:** 0.11
 - **Invalid lexemes:** 0
 - **Tokens:** 33,630
-- **Segments:** 110 (0 BIPA errors, 0 CTLS sound class errors, 110 CLTS modified)
+- **Segments:** 110 (0 BIPA errors, 0 CLTS sound class errors, 110 CLTS modified)
 - **Inventory size (avg):** 35.97
 
 # Contributors
@@ -64,8 +64,8 @@ Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Ferraz Gerardi, F. | @LanguageStructure | Data Collector | Author
 Reichert, S. | | Data Collector | Author
-Johann-Mattis List | @lingulist | CLDF conversion | Other
-Tiago Tresoldi | @tresoldi | Minor curation, concept mapping refinement | Other
+Johann-Mattis List | @lingulist | CLDF conversion | Editor
+Tiago Tresoldi | @tresoldi | Minor curation, concept mapping refinement | Editor
 
 
 
